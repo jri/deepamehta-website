@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>DeepaMehta News</title>
+        <description>DeepaMehta in the world</description>
+        <link>http://www.deepamehta.de/</link>
+        <language>en-us</language>
+        <item>
+            <title>DeepaMehta 3 v0.4.2 released</title>
+            <description>
+                <![CDATA[
+    				<p>
+    					<img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+    					On <span class="marker">October 26, 2010</span> DeepaMehta 3 v0.4.2 has been released and is available on the <a href="https://github.com/jri/deepamehta3/downloads">download page</a> at GitHub.
+    					Main feature are file handling capabilities:
+    				</p>
+    				<ul>
+    					<li>Represent local files as topics.
+                         View/play file contents (text, image, audio, video, PDF) right inside DeepaMehta.</li>
+    					<li>"Folder Canvas" plugin (optional install): Represent a local folder as a synchronizable topicmap.</li>
+    					<li>"Nautilus" plugin (optional install): Put a folder under DeepaMehta control right from the GNOME desktop.</li>
+    				</ul>
+    				<p>
+    				    There are also GUI improvements and bug fixes.<br>
+    					<a href="http://groups.google.com/group/deepamehta3/browse_thread/thread/764901230212209a">v0.4.1 Release Notes</a> (Oct 16)<br>
+    					<a href="http://groups.google.com/group/deepamehta3/browse_thread/thread/efee65b95df6e45c">v0.4.2 Release Notes</a> (Oct 26)
+    				</p>
+                ]]>
+            </description>
+            <pubDate>Tue, 26 Oct 2010 16:24:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at Mensch &amp; Computer</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        On <span class="marker">September 12, 2010</span> DeepaMehta is represented at the 2nd Workshop on Personal Knowledge Management (<a href="http://2010.personalknowledge.org/">PKM 2010</a>) in Duisburg. Among the accepted papers is <a href="http://archiv.ub.uni-heidelberg.de/volltextserver/volltexte/2010/10962/pdf/foldercanvas.pdf"><i>Folder Window as Canvas</i></a> by the DeepaMehta community members Malte Reißig and Matthias Melcher. A DeepaMehta-based prototype of the paper's central idea is shown in the workshop's demo session.
+                    </p>
+                    <p>
+                        The PKM 2010 workshop takes place at the German HCI conference <a href="http://interaktive-kulturen.de/Mensch_und_Computer">Mensch und Computer 2010</a>, 12-15 September in Duisburg, Germany.
+                    </p>
+                    <p>
+                        <a href="http://archiv.ub.uni-heidelberg.de/volltextserver/volltexte/2010/10962/pdf/foldercanvas.pdf"><i>Folder Window as Canvas</i></a> (PDF, 54 KB).<br>
+                        <a href="http://github.com/jri/deepamehta3-foldercanvas">Folder Canvas plugin</a> for DeepaMehta 3.<br><br>
+                    </p>
+                    <a href="http://interaktive-kulturen.de/Mensch_und_Computer"><img src="docs/images/logo-mensch-und-computer.png" class="image-left"></a>
+                    <a href="http://2010.personalknowledge.org/"><img src="docs/images/logo-pkm2010.png" class="image-right"></a>
+                ]]>
+            </description>
+            <pubDate>Thu, 2 Sep 2010 13:54:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta 3 v0.4 released</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+                        On <span class="marker">August 4, 2010</span> DeepaMehta 3 v0.4 has been released and is available for <a href="http://github.com/downloads/jri/deepamehta3/deepamehta3-v0.4.zip">download</a>. Installation is very easy.
+                        The main feature is a completely new backend architecture:
+                    </p>
+                    <ul>
+                        <li>CouchDB is replaced by <a href="http://neo4j.org/">Neo4j</a>.</li>
+                        <li>Java-based application server with <a href="http://wiki.github.com/jri/deepamehta3/rest-api">REST API</a>.</li>
+                        <li>DeepaMehta modules are <a href="http://en.wikipedia.org/wiki/OSGi">OSGi</a> bundles.</li>
+                        <li><a href="http://wiki.github.com/jri/deepamehta3/plugin-development-guide">Plugin development framework</a>.</li>
+                        <li>DB migration facility.</li>
+                    </ul>
+                    <p>
+                        See the <a href="http://groups.google.com/group/deepamehta3/browse_thread/thread/4a0ac3c403e6cf43#">release notes</a> for more information.<br>
+                        Sourcecode and issue tracker is at <a href="http://github.com/jri/deepamehta3">GitHub</a>.<br>
+                        Discussion takes place in the <a href="http://groups.google.com/group/deepamehta3">Google group</a>.<br>
+                    </p>
+                    <p>
+                        (The DeepaMehta online <a href="http://www.deepamehta.de/dm3/">sandbox installation</a> is still at v0.3 and runs only in Firefox browsers.)
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Wed, 4 Aug 2010 17:21:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at ESCP Europe Campus Berlin</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="http://www.escpeurope.eu/"><img src="docs/images/logo-escp-europe.gif" class="imagepad" border="0" align="left"></a>
+                        On <span class="marker">February 10, 2010</span> DeepaMehta was presented at a knowledge management seminar at <a href="http://www.escpeurope.eu/campus/escp-europe-campus-berlin/">ESCP Europe Campus Berlin</a>. After demoing the software platform Jörg Richter discussed with students of <a href="http://www.escpeurope.eu/campus/escp-europe-campus-berlin/lehrstuehle-escpeurope-campus-berlin/welcome-bis/welcome-bis/">Business Information Systems</a> what kind of tools would support their learning and collaboration best. The seminar was held by <a href="http://www.escpeurope.eu/campus/escp-europe-campus-berlin/lehrstuehle-escpeurope-campus-berlin/welcome-bis/team-bis/markus-bick/">Prof. Dr. Markus Bick</a>.
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Fri, 12 Feb 2010 00:17:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>Linux Magazine writes about DeepaMehta</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="http://www.linux-magazin.de/Heft-Abo/Ausgaben/2009/09"><img src="http://www.deepamehta.de/docs/images/linux-magazine-sep-2009.jpeg" class="imagepad" border="0" align="left"></a>
+                        The latest issue of the German <a href="http://www.linux-magazin.de/">Linux Magazine</a> (<span class="marker">September 2009</span>) features a 6-page article about DeepaMehta. Editor-in-chief Jens-Christoph Brendel calls DeepaMehta a "forward-looking interface concept for possibly the most modern knowledge management for Linux". On the <a href="http://shop.linuxnewmedia.de/store/eh02/EH20123/de/product_image">frontpage</a> DeepaMehta is introduced as a "highly innovative colaboration tool".
+                    </p>
+                    <p>
+                        <a href="http://www.linux-magazin.de/Heft-Abo/Ausgaben/2009/09/Wissensweber">Article teaser</a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Tue, 1 Sep 2009 20:42:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>Development of DeepaMehta 3 started</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+                        In <span class="marker">August 2009</span> the development of DeepaMehta 3 started. Version 3 is a complete rewrite. The aim is to combine the lessons learned from DeepaMehta 2 with todays technologies and methods. A special focus is put on modularity and a flexible plugin developer framework.
+                    </p>
+                    <p>
+                        DeepaMehta 3 is based on <a href="http://couchdb.apache.org/">CouchDB</a> and <a href="http://lucene.apache.org/">Lucene</a>. The frontend is a single-page Ajax application, based on JavaScript, HTML 5, and its Canvas element. No Java for the moment.
+                    </p>
+                    <p>
+                        Sourcecode and issue tracking: <a href="http://github.com/jri/deepamehta3">DeepaMehta 3 at GitHub</a>.
+                        Discussion: <a href="http://groups.google.com/group/deepamehta3">DeepaMehta 3 Google group</a>.
+                        Try out: <a href="http://www.deepamehta.de/dm3/">DeepaMehta 3 sandbox installation</a>. To get an account write an email to <a href="mailto:jri@deepamehta.de">jri@deepamehta.de</a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Thu, 13 Aug 2009 14:51:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta mentioned in extrakte magazine</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        Issue 6/2009 (<span class="marker">May 2009</span>) of the <a href="http://www.extrakte.uni-siegen.de/">extrakte magazine</a> contains a screenshot of DeepaMehta. In his article "Data actors -- How metaphors model knowledge" Peter Matussek writes "In contrast to the 'Desktop' [metaphor] the DeepaMehta interface, like mind maps and concept maps, shows the semantic relationships between [information objects of] different datasources."
+                    </p>
+                    <p>
+                        Peter Matussek is professor of media aesthetics. extrakte is a publication of the University of Siegen, Germany.
+                    </p>
+                    <p>
+                        <a href="http://www.uni-siegen.de/uni/publikationen/extrakte/ausgaben/200906/pdf/extrakte_nr6.pdf">extrakte 6/2009</a> (German, PDF, 4.6 MB)
+                    <p>
+                    <a href="http://www.uni-siegen.de/"><img src="docs/images/uni-siegen-logo.png" class="image-left"></a>
+                    <a href="http://www.extrakte.uni-siegen.de/"><img src="docs/images/extrakte-magazine-logo.png" class="image-right"></a>
+                ]]>
+            </description>
+            <pubDate>Wed, 27 May 2009 11:32:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at CeBIT 2009</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        The CeBIT jury selected DeepaMehta for presentation at <a href="http://www.linux-magazine.com/open_source_project_lounge">CeBIT Open Source Project Lounge</a>. DeepaMehta community members Urs Lerch, Martin Delius, Malte Reißig, and Thilo Schönnemann use the opportunity to introduce the recently founded <a href="http://www.deepamehta.org/">DeepaMehta society</a> and to give a talk about utilization of <a href="http://www.tu-deepamehta.de/">DeepaMehta in education</a>.
+                    </p>
+                    <p>
+                        The CeBIT takes place <span class="marker">March 3-8, 2009</span> in Hannover, Germany. The Open Source Project Lounge is hosted by Linux Magazine.
+                    </p>
+                    <a href="http://www.cebit.de/"><img src="http://www.deepamehta.de/docs/images/cebit09-logo.png" border="0"></a>
+                    <a href="http://www.linux-magazine.com/"><img src="http://www.deepamehta.de/docs/images/linux-magazine-logo.png" border="0" align="right"></a>
+                ]]>
+            </description>
+            <pubDate>Thu, 26 Feb 2009 15:33:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at Info-Activism Camp</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta is presented at Info-Activism Camp that takes place <span class="marker">February 19-25, 2009</span> in Bangalore, India. 
+                        In the track "Co-operation and Co-ordination" DeepaMehta community member Malte Reißig shows how DeepaMeta can be utilized to enhance the work of campaigners and advocates.
+                    </p>
+                    <a href="http://www.informationactivism.org/"><img src="http://www.deepamehta.de/docs/images/infoactivism-logo.png" border="0"></a>
+                    <a href="http://www.tacticaltech.org/"><img src="http://www.deepamehta.de/docs/images/tactical-tech-logo.png" border="0" align="right"></a>
+                ]]>
+            </description>
+            <pubDate>Wed, 4 Feb 2009 22:47:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta deployed at SE Group</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        Since <span class="marker">December 9, 2008</span> <a href="http://www.segroup.de/">SE Group</a> utilizes DeepaMehta as a knowledge management platform. SE Group considers DeepaMehta's multi-dimensional information repository <a href="http://www.segroup.de/"><img src="http://www.deepamehta.de/docs/images/segroup-logo.png" class="imagepad topipad" border="0" align="left"></a> and its collaboration features as ideal for sharing information among employees, and keeping international project partners in touch.
+                    </p>
+                    <p>
+                        SE Group is a systemic consultancy with a strong academic background. They describe themselves as "Independant Think Tank for Leading Practice".
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Wed, 17 Dec 2008 14:12:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta reviewed in media pedagogy book</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="http://www.kopaed.de/kopaedshop/index.php?PRODUCT_ID=558"><img src="http://www.deepamehta.de/docs/images/web2.0-roell-book.png" class="imagepad" border="0" align="left"></a>
+                        DeepaMehta is reviewed in "Web 2.0 -- Youth Online as Educational Challenge" (in German). In his chapter "Learning Tools for the Web 2.0 Generation" co-editor Franz Josef Röll writes: "DeepaMehta is a suitable learning environment because the screen content and layout is individually constituted by the user itself. [...] At any moment the screen reflects the individual learning situation as a whole."
+                    </p>
+                    <p>
+                        The book was published on <span class="marker">November 15, 2008</span>, by <a href="http://www.kopaed.de/">kopaed</a>, Munich.
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Sun, 23 Nov 2008 18:23:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at Ubuntu release party</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        On <span class="marker">November 1, 2008</span> DeepaMehta is presented at the <a href="http://www.ubuntu-berlin.de/ubuntu-berlin-intrepid-ibex-release-party">Ubuntu 8.10 "Intrepid Ibex" Release Party</a>. The party takes place at the Berlin hackerspace <a href="http://logbuch.c-base.org/2008/10/25/ubuntu-intrepid-ibex-release-party/">c-base</a> and begins at 4 p.m. The DeepaMehta presentation is scheduled for 6 p.m.
+                    </p>
+                    <img src="http://www.deepamehta.de/docs/images/ubu-ibex-party.png" align="right" border="0">
+                ]]>
+            </description>
+            <pubDate>Sat, 1 Nov 2008 14:59:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta 2.0b8 released</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <img src="http://www.deepamehta.de/docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+                        DeepaMehta 2.0b8 has been released on <span class="marker">November 1, 2008</span> and is available for <a href="http://www.deepamehta.de/docs/download.html">download</a>.
+                        New features since DeepaMehta 2.0b7 include (see details in the <a href="http://www.deepamehta.de/docs/milestones.html">release notes</a>):
+                    </p>
+                    <ul>
+                        <li>Remarkably simplified set up
+                        <li>Extended team functions
+                        <li>New application: shared calendars
+                        <li>Extended email application
+                        <li>Usability: easier navigation in search results
+                        <li>For developers: convenient build and configuration management / more flexible HTML generator
+                    </ul>
+                    <p>
+                        We like to thank all the contributors and supporters.
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Sat, 1 Nov 2008 14:58:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta presented at BITKOM</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        On <span class="marker">September 24, 2008</span> DeepaMehta CEO Andreas Gebhard presented the DeepaMehta platform at the <a href="http://www.bitkom.org/">BITKOM</a> working group <a href="http://www.bitkom.org/gremien/knowledge">Knowledge Engineering & Management</a> (KEM), hosted by <a href="http://www.usu.de/">USU AG</a>.
+                    </p>
+                    <p>
+                        <a href="http://www.deepamehta.de/docs/Bitkom-Agenda-AK-KEM-24.09.08.pdf">Agenda</a> (PDF, 40 KB)
+                        <br><br>
+                        <a href="http://www.bitkom.org/"><img src="http://www.deepamehta.de/docs/images/bitkom-logo.png" border="0"></a>
+                        <a href="http://www.usu.de/"><img src="http://www.deepamehta.de/docs/images/usu-logo.png" border="0" align="right"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Fri, 26 Sep 2008 11:33:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta used in BAER project</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        In <span class="marker">summer 2008</span> a group of media and computing students created a hypermedia backend with DeepaMehta for an information system for visitors to the penguin house at Berlin Zoological Garden. A Flash-based touch display was utilized as frontend. The application prototype ("SemKingPeng") was developed in the context of the <a href="http://projekt.tfh-berlin.de/baer/">BAER project</a>.
+                    </p>
+                    <p>
+                        BAER is an interdisciplinary R&D project that deals with new concepts for zoo management and is conducted by the <a href="http://www.tfh-berlin.de/">University of Applied Sciences, Berlin</a> (TFH).
+                    </p>
+                    <p>
+                        &rarr; <a href="http://semkingpeng.division-durch-null.de/">"SemKingPeng" showcase</a> (German)<br>
+                        &rarr; <a href="http://inputgeil.de/peng/app.swf">Interactive demo</a> (Flash required)<br>
+                        &rarr; <a href="http://www.deepamehta.de/wiki/file/TFH_BAER_TV1_SEMKINGPENG_54-58_091008.pdf">Article in BAER publication</a> (PDF, 330 KB)<br>
+                        &rarr; <a href="http://www.deepamehta.de/wiki/en/Add_on:_Info_Touch">Download and create your own content</a><br><br>
+                        <a href="http://www.tfh-berlin.de/"><img src="http://www.deepamehta.de/docs/images/tfh-logo.png" border="0"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Wed, 13 Aug 2008 20:12:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta article appears in Fraunhofer publication</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="http://www.igi-global.com/reference/details.asp?ID=7543"><img src="http://www.deepamehta.de/docs/images/swe-book.png" class="imagepad" border="0" align="left"></a>
+                        In <span class="oldmarker">June 2008</span> the article <b>DeepaMehta -- Another Computer is Possible</b> by DeepaMehta co-founder Jörg Richter and Dr. Jurij Poelchau was published in <a href="http://www.igi-global.com/reference/details.asp?ID=7543">Emerging Technologies for Semantic Work Environments</a>. The book is edited by Jörg Rech, Björn Decker, and Eric Ras, <a href="http://www.iese.fraunhofer.de/">Fraunhofer Institute for Experimental Software Engineering (IESE)</a>.
+                    </p>
+                    <p>
+                        <a href="http://www.deepamehta.de/swe-book/deepamehta-another-computer-is-possible-20070810.pdf">Article Download</a> (PDF, 2.9 MB)
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Wed, 9 Jul 2008 16:43:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at LinuxTag 2008</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="http://www.linuxtag.org/"><img src="docs/images/linuxtag.png" class="leftipad" border="0" align="right"></a>
+                        The DeepaMehta semantic desktop project exhibits at LinuxTag 2008 in hall 7.3b at booth 3.
+                    </p>
+                    <p>
+                        LinuxTag, Europe's leading exhibition on Linux and Open Source takes place from <span class="marker">May 28-31, 2008</span> at Berlin's <i>Messezentrum unter dem Funkturm</i>.
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Sun, 25 May 2008 23:59:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>4. Release Candidate of DeepaMehta 2.0b8 completed</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+                        Since <span class="marker">May 2, 2008</span>, the 4. release candidate of the upcoming DeepaMehta 2.0b8 release is available for download. New features since DeepaMehta 2.0b7 include:
+                    </p>
+                    <ul>
+                        <li>Remarkably simplified installation (no MySQL and no <i>ant</i> installation required anymore)</li>
+                        <li>New application: shared calendars</li>
+                        <li>More collaboration features: collaborative editing, automated email notification</li>
+                        <li>For Developers: convenient build and configuration management</li>
+                    </ul>
+                    <p>
+                        <a href="http://www.deepamehta.de/download/deepamehta-2.0b8-rc4.zip">deepamehta-2.0b8-rc4.zip</a> (12.6 MB)
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Fri, 2 May 2008 17:20:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>3. Release Candidate of DeepaMehta 2.0b8 completed</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+                        Since <span class="oldmarker">April 8, 2008</span>, the 3. release candidate of the upcoming DeepaMehta 2.0b8 release is available for download. New features since DeepaMehta 2.0b7 include:
+                    </p>
+                    <ul>
+                        <li>Remarkably simplified installation (no MySQL and no <i>ant</i> installation required anymore)</li>
+                        <li>New application: shared calendars</li>
+                        <li>More collaboration features: collaborative editing, automated email notification</li>
+                        <li>For Developers: convenient build and configuration management</li>
+                    </ul>
+                    <p>
+                        <a href="http://www.deepamehta.de/download/deepamehta-2.0b8-rc3.zip">deepamehta-2.0b8-rc3.zip</a> (12.6 MB)
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Tue, 8 Apr 2008 16:29:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at re:publica'08</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        On <span class="oldmarker">April 2, 2008</span>, DeepaMehta is represented in two events at <a href="http://re-publica.de/08/">re:publica'08</a>. At 4 p.m. Jörg Richter and Andreas Wichmann give the talk <a href="http://programm.re-publica.de/2008/events/259.de.html"><i>Shared Structures of Meaning -- How can technology support the social evolution?</i></a> At 8 p.m. Malte Reißig and other community members host the hands-on <a href="http://programm.re-publica.de/2008/events/267.de.html"><i>DeepaMehta Workshop: After Eight</i></a>.
+                    </p>
+                    <p>
+                        <a href="http://re-publica.de/08/"><img src="docs/images/republica-2008-banner.png" align="left" class="imagepad" border="0"></a>
+                        The 3-day <a href="http://re-publica.de/">re:publica conference</a> is about culture, media, politics and everyday digital life. Bloggers and other net citizens meet in Berlin. This year's motto is "the critical mass".
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Sat, 29 Mar 2008 16:36:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>2. Release Candidate of DeepaMehta 2.0b8 completed</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+                        Since <span class="oldmarker">March 12, 2008</span>, the 2. release candidate of the upcoming DeepaMehta 2.0b8 release is available for download. New features since DeepaMehta 2.0b7 include:
+                    </p>
+                    <ul>
+                        <li>Remarkably simplified installation (no MySQL and no <i>ant</i> installation required anymore)</li>
+                        <li>New application: shared calendars</li>
+                        <li>More collaboration features: collaborative editing, automated email notification</li>
+                        <li>For Developers: convenient build and configuration management</li>
+                    </ul>
+                    <p>
+                        Please note: there is no English README for now (German only)
+                    </p>
+                    <p>
+                        <a href="http://www.deepamehta.de/download/deepamehta-2.0b8-rc2.zip">deepamehta-2.0b8-rc2.zip</a> (12.6 MB)
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Wed, 12 Mar 2008 09:08:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta invited to FHTW seminar "Sustainability and IT"</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        On <span class="oldmarker">February 4, 2008</span>, Jörg Richter and Malte Reißig of DeepaMehta talked at <a href="http://www.en.fhtw-berlin.de/">FHTW Berlin</a> with students of the seminar "Sustainability and IT". Topics were:
+                    </p>
+                    <ul>
+                        <li>What questions arise when applying <i>Sustainability</i> to information, knowledge, and digital media?</li>
+                        <li>Under what conditions is information a source of action?</li>
+                        <li>Do today's fragmented user interfaces make digesting information difficult or are they a fixed feature of post-modernism easily dealt with by young people?</li>
+                    </ul>
+                    <p>
+                        The seminar was held by Oliver Passek, teacher of <a href="http://wiko.fhtw-berlin.de/index-e.php">Business Communication Management</a>.
+                        <br><br>
+                        <a href="http://www.en.fhtw-berlin.de/"><img src="docs/images/fhtw-logo.png" border="0"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Mon, 4 Feb 2008 14:25:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta deployed at Vodafone Group R&amp;D</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        Since <span class="oldmarker">December 2007</span> DeepaMehta is used as a project management tool at <a href="http://www.vodafone-rnd.de/">Vodafone Group R&D Germany</a>. The employees maintain a shared corporate memory of project-relevant information resources and their relationships. Shared calendars provide an overview of the time schedule and automatized email notifies about the state of affairs.  
+                    </p>
+                    <p>
+                        All DeepaMehta features developed for Vodafone, mainly collaborative features, are open source and are integrated into the upcoming DeepaMehta 2.0b8 release.
+                        <br>
+                        <a href="http://www.vodafone-rnd.de/"><img src="docs/images/vodafone-logo.png" align="right" border="0"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Fri, 21 Dec 2007 21:43:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at Sustainable IT</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta was used at the <a href="http://www.sustainable-it.org/">Sustainable IT</a> conference in Berlin on <span class="oldmarker">October 17-18, 2007</span> as a collaboration and documentation tool. During the <i>Open Inquiry</i> process sustainability-related questions and answers of the conference's participants were mapped on a shared screen. The <i>Open Inquiry</i> was conceived by the <a href="http://www.zukunftsenergie.org/">Jugendbündnis Zukunftsenergie</a>.
+                    </p>
+                    <p>
+                        The Sustainable IT conference reflects the impact of information and communication technology on natural resources.
+                        <br><br>
+                        <a href="http://www.sustainable-it.org/"><img src="docs/images/sustainable-it-2007.png" border="0"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Thu, 18 Oct 2007 20:12:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta company made a limited liability corporation</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+                        On <span class="oldmarker">September 28, 2007</span>, the DeepaMehta company has been transformed into a limited liability corporation (GmbH in Germany). The DeepaMehta corporation offers professional services around the DeepaMehta software platform. Services include development of customized solutions, consulting, and application service providing.
+                    </p>
+                    <p>
+                        Members of the company are <a href="docs/humans.html">Andreas Gebhard</a> (CEO) and <a href="docs/humans.html">J&ouml;rg Richter</a> (CTO).
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Fri, 28 Sep 2007 17:33:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta article accepted for Fraunhofer publication</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        The article <b>DeepaMehta -- Another Computer is Possible</b> (<span class="oldmarker">August 10, 2007</span>) by DeepaMehta co-founder Jörg Richter and Dr. Jurij Poelchau has been accepted for publication in <i>Emerging Technologies for Semantic Work Environments: Techniques, Methods, and Applications</i>. The book is edited by Jörg Rech, Björn Decker, and Eric Ras, Fraunhofer Institute for
+                        <a href="http://www.iese.fraunhofer.de/"><img src="docs/images/fraunhofer-iese-logo.png" class="topipad" align="right" border="0"></a>
+                        Experimental Software Engineering (IESE). Publication is scheduled for end of 2007.
+                    </p>
+                    <p>
+                        <a href="swe-book/deepamehta-another-computer-is-possible-20070810.pdf">Article Download</a> (PDF, 2.9 MB)
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Tue, 28 Aug 2007 17:46:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at Google Developer Day</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        On <span class="oldmarker">May 31, 2007</span> DeepaMehta was introduced at the <a href="http://code.google.com/events/developerday/">Google Developer Day 2007</a> in Hamburg/Germany. In his presentation "DeepaMehta -- the Metatool for the Google-Cosmos", DeepaMehta CEO <b>Andreas Gebhard</b> envisaged the integration of various Google APIs (search, mail, maps, ...) into the DeepaMehta semantic desktop.
+                    </p>
+                    <p>
+                        The Google Developer Day 2007 took place all over the world simultaneously and its various sessions are available as web-video.
+                        <br><br>
+                        <a href="http://code.google.com/events/developerday/"><img src="docs/images/google-developer-day-2007.png" border="0"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Fri, 01 Jun 2007 13:12:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta embraced by ZDNet.de</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        On <span class="oldmarker">April 23, 2007</span> the IT news portal <a href="http://www.zdnet.de/">ZDNet.de</a> mentioned DeepaMehta in their article <a href="http://www.zdnet.de/itmanager/strategie/0,39023331,39153516,00.htm">Web 2.0 im Business-Bereich: Bloggen oder lieber blocken?</a> (in German). Lothar Lochmaier discusses the opportunities of social software and Web 2.0 for business and finds that DeepaMehta's approach <i>vitalizes the subject of knowledge management through its easy-to-use features</i>.<br>
+                        <a href="http://www.zdnet.de/"><img src="docs/images/zdnet.de-logo.gif" align="right" border="0"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Tue, 24 Apr 2007 13:26:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta co-founder interviewed by Küchenradio</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="http://kuechenradio.org/wp/?p=160">Episode 96</a> of the <a href="http://kuechenradio.org/">K&uuml;chenradio</a> podacst contains an interview with DeepaMehta co-founder J&ouml;rg Richter. In this interview, he reflects about computers and cultural criticism: what we do with machines, and what machines do with us. The interview was recorded (in German) on <span class="oldmarker">April 12, 2007</span> during the <a href="http://re-publica.de/">re:publica</a> conference in Berlin.
+                    </p>
+                    <p>
+                        The second half of the podcast contains an interview with re:publica co-organizer Markus Beckedahl.
+                    </p>
+                    <p>
+                        <a href="http://kuechenradio.org/"><img src="docs/images/kuechenradio.png" border="0"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Fri, 13 Apr 2007 20:21:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta Workshop at re:publica</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        On <span class="oldmarker">April 12, 2007</span> a workshop focusing on DeepaMehta business applications takes place at the <a href="http://re-publica.de/">re:publica</a> conference in Berlin.
+                    </p>
+                    <p>
+                        The conference addresses philosophical, social, economical, and legal issues of the net (r)evolution in terms of <i>Web 2.0</i>, <i>Open Source</i>, and <i>Social Media</i>.
+                    </p>
+                    <p>
+                        <a href="http://re-publica.de/"><img src="docs/images/republica-2007-banner.png" border="0"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Fri, 13 Apr 2007 16:38:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Getting in contact with investors</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <img src="docs/images/heise-events-logo.png" class="leftipad" align="right" border="0">
+                        On <span class="oldmarker">January 23-26, 2007</span> DeepaMehta was presented at the Heise congress for CIOs, CTOs, and IT decision makers: <a href="http://www.heise.de/veranstaltungen/2007/ho_osb/en/"><i>Open Source Meets Business</i></a>. The program committee selected DeepaMehta for the investment summit and a 3-day poster session.
+                    </p>
+                    <p>
+                        <a href="http://www.heise.de/veranstaltungen/2007/ho_osb/en/"><img src="docs/images/open-source-meets-business-2007.png" border="0"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Fri, 26 Jan 2007 21:07:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at first amina event</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        On <span class="oldmarker">November 20, 2006</span> the first amina event was accompanied by DeepaMehta software for live mapping the amina topics, stakeholders, and relationships. See a <a href="/amina/amina-event-20061120.jpg">picture</a>.
+                    </p>
+                    <p>
+                        The <a href="http://www.amina-initiative.de/">amina initiative</a> aims to promote corporate responsibility (CR) projects by establishing a dialog between the 3 worlds: companies, universities and avant-garde thinkers. See a <a href="/amina/AminaMPG4256K_Stream.mp4">movie</a>.
+                    </p>
+                    <p>
+                        The amina knowledge platform is currently being build on the basis of DeepaMehta. An interactive public demo is already available (in German) at
+                        <a href="http://www.amina-wissensplattform.de/">www.amina-wissensplattform.de</a>
+                        <a href="http://www.amina-initiative.de/"><img src="docs/images/amina-logo-132x48.png" border="0" align="right"></a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Tue, 21 Nov 2006 11:41:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at LinuxWorld Expo</title>
+            <description>
+                <![CDATA[
+                    <p>
+                    <a href="http://www.sun.com/"><img src="docs/images/sun-logo.png" class="leftipad" align="right" border="0"></a>
+                    On <span class="oldmarker">November 14-16, 2006</span> the DeepaMehta company exhibited at LinuxWorld Conference & Expo in Cologne. The DeepaMehta Semantic Desktop was showcased on booth C16, which was shared with Sun Microsystems.
+                    Read the <a href="LinuxWorld-Expo-2006/press-release.txt">press release</a> (in German).
+                    </p>
+                    <p>
+                <a href="http://www.linuxworldexpo.de/">LinuxWorld Conference & Expo Cologne</a> is the most important information platform for professional corporate applications utilizing Linux and Open Source in Europe.
+                    <br><br>
+                    <a href="http://www.linuxworldexpo.de/"><img src="docs/images/linuxworldexpo-logo.png" border="0"></a>
+                ]]>
+            </description>
+            <pubDate>Thu, 16 Nov 2006 21:02:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at WOS4</title>
+            <description>
+                <![CDATA[
+                    <p>
+                    On <span class="oldmarker">September 13, 2006</span> DeepaMehta was presented at the warmup event for the <a href="http://www.wizards-of-os.org/">Wizards of OS 4</a> conference in Berlin. WOS4 is covering the fields of free software, free knowledge, and free culture.
+                    <br><br>
+                    <a href="http://www.wizards-of-os.org/"><img src="docs/images/wos4.png" border="0"></a>.
+                ]]>
+            </description>
+            <pubDate>Thu, 14 Sep 2006 11:25:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>LinuxUser rates DeepaMehta 5 fishes</title>
+            <description>
+                <![CDATA[
+                    <p>
+                    <a href="http://www.linuxuser.co.uk/index.php?option=com_virtuemart&page=shop.product_details&flypage=shop.flypage&product_id=34&Itemid=63"><img src="docs/images/linuxuser-august-2006.png" class="imagepad" align="left" border="0"></a>
+                    In its <span class="oldmarker">August 2006</span> issue the UK magazine <a href="http://www.linuxuser.co.uk/">LinuxUser & Developer</a> has published a review article about DeepaMehta. Author Martin Howse gives DeepaMehta the maximum rating of 5 fishes for its <i>fresh, new, and intriguing well researched ideas.</i>
+                    </p>
+                    <p>
+                    <a href="articles/deepamehta-linuxuser-200608.pdf">Review Download</a> (PDF, 4.2 MB)
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Fri, 04 Aug 2006 15:27:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta 2.0b7 released</title>
+            <description>
+                <![CDATA[
+                    <p>
+                    On <span class="oldmarker">June 25, 2006</span> DeepaMehta 2.0b7 was released. Besides bug fixes there are new features:
+                    <ul>
+                        <li>Color chooser dialog (<i>thanks to Volker Wegert</i>)
+                        <li>Sending email is simplified
+                        <li>Simplified installation
+                        <li>Simplified administration
+                        <li>Extended HTML generator
+                        <li>Extended forum application
+                        <li>Extended Kompetenzstern application
+                        <li>Some new icons (<i>thanks to Harald M&uuml;ller</i>)
+                    </ul>
+                    Read more in the <a href="docs/2.0b7.html">Release Notes</a>.
+                ]]>
+            </description>
+            <pubDate>Sun, 25 Jun 2006 15:12:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Kiezatlas 1.3.3 released</title>
+            <description>
+                <![CDATA[
+                    <p>
+                    <a href="docs/kiezatlas.html"><img class="logo-small" src="docs/kiezatlas/images/logo-small.png" align="left" border="0"></a>
+                    On <span class="oldmarker">May 30, 2006</span> Kiezatlas 1.3.3 was released. New features since version 1.2 include:
+                    <ul>
+                        <li>Works for arbitrary cities / countries
+                        <li>Institutions have their own web forums
+                        <li>Arbitrary shapes on the map can be colored
+                    </ul>
+                    <a href="docs/kiezatlas.html">Kiezatlas</a> is a geographic Content Management System -- a customer solution based on the DeepaMehta platform. Kiezatlas is open source software.
+                ]]>
+            </description>
+            <pubDate>Tue, 30 May 2006 17:16:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DEMO berichtet über Kiezatlas</title>
+            <description>
+                <![CDATA[
+                    <p>
+                    <a href="http://www.demo-online.de/"><img src="docs/images/demo-0306.png" class="ipad" align="left" border="0"></a>
+                    <a href="http://www.demo-online.de/">DEMO</a>, die Monatszeit-schrift f&uuml;r Kommunal-politik, berichtet in Ausgabe <span class="oldmarker">3/2006</span> &uuml;ber die Kiezatlas-Plattform:
+                    <p>
+                    <i>
+                        Mit Open Source preis-g&uuml;nstig informieren und aktivieren --
+                        Open-Source-Software auf kommunaler Ebene: das Berliner Beispiel <a href="http://www.kiezatlas.de/">www.kiezatlas.de</a>
+                    </i>
+                    <p>
+                    <a href="DEMO/DEMO-0306-Kiezatlas.pdf">Artikel Download</a> (PDF, 3.8 MB)
+                ]]>
+            </description>
+            <pubDate>Sat, 25 Mar 2006 12:38:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta attracts Web 2.0 people</title>
+            <description>
+                <![CDATA[
+                    <p>
+                    On <span class="oldmarker">Jan. 16, 2006</span> DeepaMehta attracted numerous people at the <a href="http://www.webmontag.de/">Web Monday</a> event in Berlin.
+                    <p>
+                    <i>The highlight presentation was held by J&ouml;rg Richter, maintainer of the DeepaMehta project. A desktop beyond the metaphors of windows, directories, and applications that lays itself as a semantic network above the operating systems. Interesting approach, recommended for all interaction and UI designers to study...</i>
+                    (from the blog <a href="http://www.neulichamimbiss.com/?p=6">Neulich Am Imbiss</a>)
+                    <p>
+                    Read more feedback on the
+                    <a href="http://www.cosmocode.de/de/blogs/joerg/20060117122822/">CosmoCode</a> and
+                    <a href="http://www.blog.de/index.php/sommer/2006/01/17/groses_interesse_am_webmontag_in_berlin~479116">summertime</a> blogs.
+                    <p>
+                    Web Monday connects users, developers, founders, entrepreneurs, researchers, web pioneers, bloggers, podcasters, designers and other folks interested in Web 2.0 topics (in the broadest sense).
+                    <br><br>
+                    <a href="http://www.webmontag.de/"><img src="docs/images/webmontag-logo.png" border="0"></a>
+                ]]>
+            </description>
+            <pubDate>Tue, 17 Jan 2006 18:47:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta company founded</title>
+            <description>
+                <![CDATA[
+                    <p>
+                    <img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+                    On <span class="oldmarker">November 21, 2005</span> the DeepaMehta company was founded to offer professional services around the DeepaMehta platform. Services include consulting, development of customized solutions, and hosting.
+                    <p>
+                    Members of the company are <a href="docs/humans.html">Andreas Gebhard</a> (CEO), <a href="docs/humans.html">J&ouml;rg Richter</a> (CTO), and <a href="docs/humans.html">Annette Leeb</a> (COO).
+                ]]>
+            </description>
+            <pubDate>Tue, 22 Nov 2005 09:25:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta accepted for ISWC 2005</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta has been accepted for the workshop <a href="http://www.semanticdesktop.org/">The Semantic Desktop</a> -- <i>Next Generation Personal Information Management and Collaboration Infrastructure</i> at the 4th International <a href="http://iswc2005.semanticweb.org/">Semantic Web Conference</a>, <span class="oldmarker">Nov. 6-10, 2005</span>, Galway, Ireland.
+                        <p>
+                        Accepted Paper:<br><a href="ISWC-2005/deepamehta-paper-iswc2005.pdf">DeepaMehta -- A Semantic Desktop</a> (PDF, 850&nbsp;KB)
+                        <br><br>
+                        <a href="http://iswc2005.semanticweb.org/"><img src="docs/images/iswc2005.png" border="0"></a>
+                ]]>
+            </description>
+            <pubDate>Thu, 03 Nov 2005 12:32:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Team development process started</title>
+            <description>
+                <![CDATA[
+                    <p>
+                    To manage the team development process the <a href="http://developer.berlios.de/projects/deepamehta/">DeepaMehta project</a> uses the services of BerliOS Developer since <span class="oldmarker">November 1, 2005</span>.
+                    Publically available are a bug reporting tool, a feature request tool, a sourcecode repository and mailing lists.
+                    <p>
+                    <a href="http://developer.berlios.de/">BerliOS Developer</a>'s mission is to enrich the Open Source community by providing a centralized place for Open Source Developers to control and manage Open Source Software Development.
+                    <br><br>
+                    <a href="http://www.berlios.de/"><img src="docs/images/berlios-logo.png" border="0"></a>
+                ]]>
+            </description>
+            <pubDate>Tue, 01 Nov 2005 21:44:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Aussteller auf der itXnetz-connect</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta war Aussteller auf der <a href="http://www.itxnetz-connect.de/">itXnetz-connect</a>, einer Messe der Berliner IT- und Medienbranchen, die am <span class="oldmarker">7.10.2005</span> stattfand.
+                    <p>
+                        Im Rahmen des Panels <i>IT- und Medienstandort Berlin</i> pr&auml;sentierte J&ouml;rg Richter die DeepaMehta-Anwendung <a href="docs/kiezatlas.html">Kiezatlas</a>.
+                        <p>
+                        <a href="http://www.itxnetz-connect.de/"><img src="docs/images/itxnetz-connect.png" border="0"></a>
+                ]]>
+            </description>
+            <pubDate>Fri, 07 Oct 2005 21:02:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Workshop bei "Linux in Berlin"</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="http://www.linuxinberlin.de/"><img src="docs/images/linux-in-berlin-sep-2005.png" border="0" align="right"></a>
+                        Am <span class="oldmarker">8.9.2005</span> fand im Rahmen der Infoveranstaltung <a href="http://www.linuxinberlin.de/">Linux in Berlin</a> ein DeepaMehta Workshop statt.
+                        <p>
+                        Die zweite <i>Linux in Berlin</i> stand unter dem Motto "Linux und Open Source f&uuml;r kleine und mittelst&auml;ndische Unternehmen".
+                ]]>
+            </description>
+            <pubDate>Thu, 08 Sep 2005 19:47:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta at DenkWerkzeug conference</title>
+            <description>
+                <![CDATA[
+                    <a href="http://cognitivetools.net/tiki-index.php?page=DenkWerkzeug-Conference"><img src="docs/images/denkwerkzeuglogo.png" border="0"></a>
+                    <p>
+                    On <span class="oldmarker">August 20, 2005</span> DeepaMehta was presented at <a href="http://cognitivetools.net/tiki-index.php?page=DenkWerkzeug-Conference">DenkWerkzeug 2005 II</a>, a German conference about cognitive tools, personal knowledge management, semantic desktop, thinking aids, visualization techniques, cognitive ergonomy.
+                ]]>
+            </description>
+            <pubDate>Sun, 21 Aug 2005 14:38:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Talk at LinuxTag 2005</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="http://www.linuxtag.org/"><img src="docs/images/linuxtag.png" border="0" align="right"></a>
+                        On <span class="oldmarker">June 24, 2005</span> DeepaMehta was presented at LinuxTag 2005, europe's largest event about Free Software, Linux and Open Source.
+                    <p>
+                        The DeepaMehta talk was part of the track <i>Desktop Next Generation</i> (just between the GNOME and KDE talks :-)
+                    <p>
+                        <a href="http://www.linuxtag.org/typo3site/fvp-fr.0.html?L=1">Schedule for June 24, 2005</a><br>
+                        <a href="http://www.linuxtag.org/vcc/details.pl?id=238">Accepted Paper</a> 
+                ]]>
+            </description>
+            <pubDate>Fri, 24 Jun 2005 18:32:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Vortrag bei "Linux in Berlin"</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        Am <span class="oldmarker">12.5.2005</span> wurde DeepaMehta im Rahmen der Infoveranstaltung <a href="http://www.linuxinberlin.de/">Linux in Berlin</a> pr&auml;sentiert. J&ouml;rg Richter (newthinking network) gab einen Einblick in die DeepaMehta-Plattform und Herbert Scherer und Reinhilde Godulla (beide <a href="http://www.stadtteilzentren.de/">Verband f&uuml;r sozial-kulturelle Arbeit</a>) stellten die Referenzanwendung <a href="docs/kiezatlas.html">Kiezatlas</a> vor.<br>
+                        <a href="http://www.linuxinberlin.de/"><img src="docs/images/linux-in-berlin.png" border="0" align="right"></a>
+                ]]>
+            </description>
+            <pubDate>Fri, 13 May 2005 12:08:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Preis für DeepaMehta / Kiezatlas</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="http://www.we-make-it.de/"><img src="docs/images/logo-we-make-it.png" border="0" align="right"></a>
+                        Am <span class="oldmarker">14.4.2005</span> hat die DeepaMehta-L&ouml;sung <a href="docs/kiezatlas.html">Kiezatlas</a> den "Best Practice Award" der Wirtschaftsinitiative <a href="http://www.we-make-it.de/">we make IT Berlin.Brandenburg</a> in der Kategorie "eGovernment" gewonnen.
+                        J&ouml;rg Richter und Andreas Gebhard von der <a href="http://www.newthinking.de/">newthinking store GmbH</a> nahmen im Rahmen der Berliner Fachmesse IT-Profits den Preis entgegen...&nbsp;&nbsp;&nbsp;<a href="http://newthinking.de/NTNews/Best_Practice_Award/de"><i>mehr auf newthinking.de</i></a>
+                    <p>
+                        Der Wettbewerb wurde in Kooperation mit der <a href="http://www.zab-brandenburg.de/">ZukunftsAgentur Brandenburg</a> veranstaltet.
+                    <br><br>
+                        <a href="http://www.itprofits.de/"><img src="docs/images/logo-itprofits.png" border="0"></a>
+                        <a href="http://www.zab-brandenburg.de/"><img src="docs/images/zab-logo.png" border="0" align="right"></a>
+                ]]>
+            </description>
+            <pubDate>Fri, 15 Apr 2005 10:50:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>DeepaMehta Live-CD available</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="/~smoky/knoppix_dm.html"><img src="docs/images/knoppix-logo.png" class="ipad" align="left" border="0"></a>
+                    <p>
+                        Version <b>0.27</b>&nbsp;&nbsp;&nbsp;(March 3, 2005)
+                    <p>
+                        Every PC user can instantly try out the complete DeepaMehta platform by using this bootable Linux-CD.
+                    <p>
+                        The <a href="/~smoky/knoppix_dm.html">DeepaMehta Live-CD</a> is based on the <a href="http://www.knopper.net/knoppix-info/">KNOPPIX</a> Linux distribution.
+                ]]>
+            </description>
+            <pubDate>Thu, 03 Mar 2005 14:30:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Kiezatlas als Best-Practice ausgezeichnet</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <a href="docs/kiezatlas.html"><img class="logo-small" src="docs/kiezatlas/images/logo-small.png" align="left" border="0"></a>
+                        <a href="docs/kiezatlas.html">Kiezatlas</a> ist ein geographisches Content Management System -- eine Kundenl&ouml;sung auf DeepaMehta-Basis.
+                    <p>
+                         Das kombinierte Jugend-Technik-Sozial-Projekt wurde im Sommer 2004 in Berlin gestartet: Jugendliche sammeln mittels Fragebogen und Digitalkamera Informationen &uuml;ber Gesch&auml;fte / Einrichtungen und stellen sie auf die Website <a href="http://www.kiezatlas.de/">www.kiezatlas.de</a>.
+                    <p>
+                        Kiezatlas ist Open Source.
+                    <p>
+                        In Zusammenarbeit mit dem <a href="http://www.stadtteilzentren.de/">Verband f&uuml;r sozial-kulturelle Arbeit</a> und der <a href="http://www.spinnenwerk.de/netti/">Internetwerkstatt Netti</a>. Gef&ouml;rdert vom <a href="http://www.los-online.de/">LOS-Programm</a>.
+                    <br><br>
+                    <img src="docs/images/poweredby.png">
+                    <p>
+                        Am <span class="oldmarker">10.11.2004</span> wurde Kiezatlas beim Wettbewerb <a href="http://www.wettbewerb-wege.de/"><i>Erste Wege ins Netz</i></a> als Best-Practice ausgezeichnet.
+                    <p>
+                    <a href="http://www.initiatived21.de/"><img src="docs/images/initiative_d21_c.gif" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="http://www.digitale-chancen.de/"><img src="docs/images/stiftung_logo_c.gif" border="0"></a>
+                ]]>
+            </description>
+            <pubDate>Thu, 11 Nov 2004 13:06:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Vortrag auf der NMI 2005</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        Am <span class="oldmarker">2.11.2004</span> hielt J&ouml;rg Richter im Rahmen der Tagung <a href="http://www.verbundkolleg-berlin.de/NMI/content/index.html">NMI 2005</a> -- <i>Neue Medien der Informationsgesellschaft</i> den Gastvortrag <a href="docs/talk.html"><i>Reducing the Semantic Distance</i></a>.
+                    <p>
+                        Die Tagung wird vom <a href="http://www.verbundkolleg-berlin.de/">Alcatel SEL Stiftungs-Verbundkolleg Berlin</a> veranstaltet.
+                    <br>
+                    <a href="http://www.alcatel.de/stiftung/"><img src="docs/images/alcatel.png" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="http://www.uni-potsdam.de/"><img src="docs/images/uni-potsdam.png" border="0"></a>
+                ]]>
+            </description>
+            <pubDate>Wed, 03 Nov 2004 11:52:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Vortrag an der HFF Potsdam</title>
+            <description>
+                <![CDATA[
+                    <p>
+                    <a href="http://www.hff-potsdam.de/"><img src="docs/images/hff-logo.png" border="0" align="right"></a>
+                        Am <span class="oldmarker">27.10.2004</span> war der Vortrag <a href="docs/talk.html"><i>Reducing the Semantic Distance</i></a> im Rahmen der Ringvorlesung <i>Medienproduktion im Wandel</i> an der <a href="http://www.hff-potsdam.de/">HFF Potsdam</a> zu h&ouml;ren.
+                    <p>
+                        In Zusammenarbeit mit dem <a href="http://www.medienengineering.de/">Lehrstuhl f&uuml;r Netzwerktechnologien und multimediale Teledienste</a> der Universit&auml;t Potsdam.
+                    <p>
+                    ... mehr unter <a href="http://www.medienengineering.de/3_.htm">www.medienengineering.de</a>
+                ]]>
+            </description>
+            <pubDate>Thu, 28 Oct 2004 10:28:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>A talk about user interfaces</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <i><big><a href="docs/talk.html">Reducing the Semantic Distance</a></big></i><br>
+                        Do we still work with applications, files and folders in 20 years?  
+                    <p>
+                        <a href="http://www.newthinking.de/"><img src="docs/images/newthinking.png" border="0"></a>
+                    <p>
+                        October 15, 2004 / newthinking network / Berlin
+                ]]>
+            </description>
+            <pubDate>Sat, 02 Oct 2004 14:04:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+    </channel>
+</rss>
