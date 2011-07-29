@@ -9,22 +9,22 @@
             <title>DeepaMehta 3 v0.4.2 released</title>
             <description>
                 <![CDATA[
-    				<p>
-    					<img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
-    					On <span class="marker">October 26, 2010</span> DeepaMehta 3 v0.4.2 has been released and is available on the <a href="https://github.com/jri/deepamehta3/downloads">download page</a> at GitHub.
-    					Main feature are file handling capabilities:
-    				</p>
-    				<ul>
-    					<li>Represent local files as topics.
+                    <p>
+                        <img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+                        On <span class="marker">October 26, 2010</span> DeepaMehta 3 v0.4.2 has been released and is available on the <a href="https://github.com/jri/deepamehta3/downloads">download page</a> at GitHub.
+                        Main feature are file handling capabilities:
+                    </p>
+                    <ul>
+                        <li>Represent local files as topics.
                          View/play file contents (text, image, audio, video, PDF) right inside DeepaMehta.</li>
-    					<li>"Folder Canvas" plugin (optional install): Represent a local folder as a synchronizable topicmap.</li>
-    					<li>"Nautilus" plugin (optional install): Put a folder under DeepaMehta control right from the GNOME desktop.</li>
-    				</ul>
-    				<p>
-    				    There are also GUI improvements and bug fixes.<br>
-    					<a href="http://groups.google.com/group/deepamehta3/browse_thread/thread/764901230212209a">v0.4.1 Release Notes</a> (Oct 16)<br>
-    					<a href="http://groups.google.com/group/deepamehta3/browse_thread/thread/efee65b95df6e45c">v0.4.2 Release Notes</a> (Oct 26)
-    				</p>
+                        <li>"Folder Canvas" plugin (optional install): Represent a local folder as a synchronizable topicmap.</li>
+                        <li>"Nautilus" plugin (optional install): Put a folder under DeepaMehta control right from the GNOME desktop.</li>
+                    </ul>
+                    <p>
+                        There are also GUI improvements and bug fixes.<br>
+                        <a href="http://groups.google.com/group/deepamehta3/browse_thread/thread/764901230212209a">v0.4.1 Release Notes</a> (Oct 16)<br>
+                        <a href="http://groups.google.com/group/deepamehta3/browse_thread/thread/efee65b95df6e45c">v0.4.2 Release Notes</a> (Oct 26)
+                    </p>
                 ]]>
             </description>
             <pubDate>Tue, 26 Oct 2010 16:24:59 +0100</pubDate>

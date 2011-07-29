@@ -1,897 +1,897 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-	<channel>
-		<title>DeepaMehta Community Events</title>
-		<description>Veranstaltungshinweise zu den DeepaMehta Anwender- und Entwickler-Treffen sowie zu den Einführungsveranstaltungen</description>
-		<link>http://www.deepamehta.de/</link>
-		<language>de-de</language>
-		<item>
-			<title>Wednesday, 14. July 2010: DeepaMehta Development Group Meeting</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Development Group Meeting<br>
-						Wednesday, 14. July 2010<br>
-						18:30-21:00
-					</p>
-					<p>
-					    <b>Newthinking Communications</b><br>
-					    Schönhauser Allee 6/7, Berlin-Mitte
-					</p>
-					<p>
-					    <b>Agenda:</b>
-					</p>
-					<ul>
-					    <li>deepamehta software platform v3 state of the art 
+    <channel>
+        <title>DeepaMehta Community Events</title>
+        <description>Veranstaltungshinweise zu den DeepaMehta Anwender- und Entwickler-Treffen sowie zu den Einführungsveranstaltungen</description>
+        <link>http://www.deepamehta.de/</link>
+        <language>de-de</language>
+        <item>
+            <title>Wednesday, 14. July 2010: DeepaMehta Development Group Meeting</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Development Group Meeting<br>
+                        Wednesday, 14. July 2010<br>
+                        18:30-21:00
+                    </p>
+                    <p>
+                        <b>Newthinking Communications</b><br>
+                        Schönhauser Allee 6/7, Berlin-Mitte
+                    </p>
+                    <p>
+                        <b>Agenda:</b>
+                    </p>
+                    <ul>
+                        <li>deepamehta software platform v3 state of the art 
                          (plus evtl. some outlook) (30mins)</li>
-					    <li>talking about the changes for application developers in dm2 and in dm3
+                        <li>talking about the changes for application developers in dm2 and in dm3
                           (10-15mins, then break)</li>
-					    <li>process how to: migrate content and workspaces from previous versions 
+                        <li>process how to: migrate content and workspaces from previous versions 
                            (walk through and document: 20-30mins)</li>
-					    <li>plugin development with, e.g. first sketch for a file-system plugin
+                        <li>plugin development with, e.g. first sketch for a file-system plugin
                             (60mins - 90mins)</li>
-				    </ul>
-					<p>
-					    2 1/2 half hours and i think we could try to leave out all
+                    </ul>
+                    <p>
+                        2 1/2 half hours and i think we could try to leave out all
                         organizational stuff and just focus on developments, fixing milestones
                         and therewith making the ground for kicking off some first plugins. i
                         know for some the browser client is a hot topic too talk about but maybe
                         we could just focus of telling jörg our first impressions and
                         experiences with it, the following spot could be used for that, too.
-					</p>
-					<p>
-					    looking forward to get in touch with you.
-					</p>
-					<p>
-					    best,
-					    malt
-					</p>
-				]]>
-			</description>
-			<link>http://www.deepamehta.de</link>
-			<pubDate>Thu, 8 July 2010 23:14:00 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Organizer)</author>
-		</item>
-		<item>
-			<title>Montag, 21. Juni 2010: 4. Kiezatlas-NutzerInnen-Treffen</title>
-			<description>
-				<![CDATA[
-					<p>
-						4. Kiezatlas-NutzerInnen-Treffen<br>
-						Montag, 21. Juni 2010<br>
-						18:00-20:00
-					</p>
-					<p>
-					    <b>Verband für sozial-kulturelle Arbeit</b><br>
+                    </p>
+                    <p>
+                        looking forward to get in touch with you.
+                    </p>
+                    <p>
+                        best,
+                        malt
+                    </p>
+                ]]>
+            </description>
+            <link>http://www.deepamehta.de</link>
+            <pubDate>Thu, 8 July 2010 23:14:00 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Organizer)</author>
+        </item>
+        <item>
+            <title>Montag, 21. Juni 2010: 4. Kiezatlas-NutzerInnen-Treffen</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        4. Kiezatlas-NutzerInnen-Treffen<br>
+                        Montag, 21. Juni 2010<br>
+                        18:00-20:00
+                    </p>
+                    <p>
+                        <b>Verband für sozial-kulturelle Arbeit</b><br>
                         Tucholskystraße 11, Berlin-Mitte
-					</p>
-					<p>
-					    <b>Themen:</b>
-					</p>
-					<ul>
-					    <li>Neue Einsätze durch die Anwender</li>
-					    <ul>
-					        <li>Kidsatlas</li>
-					        <li>Kiezatlanten in NRW</li>
-					        <li>Niederländische LehramtsstudentInnen erkunden Berlin mit Hilfe von Kiezatlas</li>
-				        </ul>
-					    <li>Neuigkeiten aus der Entwicklung</li>
-					    <ul>
-					        <li>Ehrenamtsatlas Berlin, basierend auf Google Maps oder OpenStreetmap, integriert in <b>berlin.de</b></li>
-				        </ul>
-					    <li>Austausch und Diskussionen</li>
-					    <ul>
-					        <li>Informationen und Erfahrungen in den Kiezen</li>
-					        <li>Neue Ideen und Anwendungswünsche für weitere Kiezatlas-Entwicklungen</li>
-				        </ul>
-					</ul>
-				]]>
-			</description>
-			<link>http://www.kiezatlas.de/</link>
-			<pubDate>Tue, 15 June 2010 21:31:00 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
-		</item>
-		<item>
-			<title>Montag, 7. September: DeepaMehta AppDev Group Meeting</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta AppDev Group Meeting<br>
-						Montag, 7.9.<br>
-						19:00-22:00<br>
-					</p>
-					<p>
-						<a href="http://www.newthinking-store.de">newthinking store</a><br>
-						Tucholskystraße 48, Berlin-Mitte<br>
-					</p>
-					<p>
-						Die DeepaMehta Application Development Group konzipiert und entwickelt Anwendungen, anhand konkreter Use Cases, in Zusammenarbeit mit Pilotanwendern aus Unternehmen oder Organisationen.
-					</p>
-					<p>
-						Diesmal diskutieren wir mit Sven Schlebes von "Goldene Zeiten Berlin" über 2 mögliche DeepaMehta Use Cases:
-					</p>
-					<p>
-						a) Agentur-Case: Interdisziplinäre und virtuelles Teams zu einer Gemeinschaft zusammenschweißen
-					</p>
-					<p>
-						b) Change-Case für große Unternehmen (Community+Collaboration+redaktionelle Öffentlichkeit)
-					</p>
-				]]>
-			</description>
-			<link>http://www.newthinking-store.de/event/deepamehta/200900907</link>
-			<pubDate>Tue, 1 September 2009 18:20:00 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
-		</item>
-		<item>
-			<title>Montag, 10. August: DeepaMehta 3 Kick-Off Treffen</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta 3 Kick-Off Treffen<br>
-						Montag, 10.8.<br>
-						19:00-22:00<br>
-					</p>
-					<p>
-						<a href="http://www.newthinking-store.de">newthinking store</a><br>
-						Tucholskystraße 48, Berlin-Mitte<br>
-					</p>
-					<p>Der Start von DeepaMehta 3 steht bevor. DeepaMehta 3 wird ein kompletter Rewrite, der die Erfahrungen der letzten 9 Jahre mit der Technik und den Denkweisen von heute verbindet.</p>
-					<p>Im ersten Teil des Abends wird Jörg Richter von seinen persönlichen Erfahrungen und Erkenntissen mit DeepaMehta 2 berichten.</p>
-					<p>Lessons Learned:</p>
-					<p> - Der Prototyp ist nicht das Produkt<br />
-					 - Zu enge Bindung an eine Person hindert die Dynamik<br />
-					 - Der Anwender entscheidet über den Wert einer Software<br />
-					 - Kein Erfolg ohne aussagekräftigen Usecase</p>
-					<p>Wie gehen die anderen vor?</p>
-					<p> - Der 4-stufige Design-Prozeß von Bill Verplank<br />
-					 - Die 3 Phasen einer Technologie von David Liddle<br />
-					 - Die 5 Bedingungen für Innovation von Scott Berkun</p>
-					<p>Was machen die anderen? / Von welchen Projekten können wir lernen?</p>
-					<p> - Haystack / MIT<br />
-					 - CouchDB<br />
-					 - Google Wave<br />
-					 - box.net<br />
-					 - Dropbox</p>
-					<p>Im zweiten Teil steht dann das "voneinander Lernen" im Vordergrund:</p>
-					<p> - Was sind eure derzeitigen Lieblingstools, Konzepte, Techniken, Denkweisen?<br />
-					 - Was sind prädestinierte Usecases für DeepaMehta 3?<br />
-					 - Wofür wollt ihr DeepaMehta 3 gerne einsetzen?</p>
-				]]>
-			</description>
-			<link>http://www.newthinking-store.de/event/deepamehta/20090810</link>
-			<pubDate>Fri, 7 August 2009 12:07:00 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
-		</item>
-		<item>
-			<title>Montag, 13. Juli: DeepaMehta Workshop</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Workshop<br>
-						Montag, 13. 7.<br>
-						19:00 - 22:00<br>Us
-					</p>
-					<p>
-						<a href="http://store.newthinking.de">newthinking store</a><br>
-						Tucholskystraße, Berlin-Mitte<br>
-					</p>
-					<p>
-						An diesem Abend sind alle DeepaMehta Anwender eingeladen Ihre Maps und Erfahrungen mit DeepaMehta  aufzurufen und allen Anwesenden zu präsentieren. Wir wollen uns mit allen Interessierten austauschen wofür DeepaMehta bereits heute eingesetzt wird. Falls Ihr euch im Vorfeld schon Inhaltlich mit uns absprechen wollt, Hilfe für eure Präsentation benötigt und uns das Planen erleichtern möchtet, nutzt dafür bitte Community Agenda Page im Wiki (diese ist auch im Titel verlinkt), so bekommt Ihr ganz sicher 15min am Beamer. 
-					</p>
-				]]>
-			</description>
-			<link>http://www.deepamehta.de/wiki/en/Community_Agenda</link>
-			<pubDate>Tue, 23 June 2009 01:56:00 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Dienstag, 19. Mai: DeepaMehta Introduction Event</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Introduction Event<br>
-						Dienstag, 19. 5.<br>
-						20:30 - 22:00<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de">newthinking store</a><br>
-						Tucholskystraße, Berlin-Mitte<br>
-					</p>
-					<p>
-						An diesem Abend wird DeepaMehta-Gründer Jörg Richter wieder eine Einführung in die DeepaMehta-Philosophie geben. Zum Thema des Abends werden Beispielanwendungen vorgeführt und wir wollen gemeinsam der heutigen Desktop Metapher auf den Zahn fühlen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/</link>
-			<pubDate>Mon, 18 May 2009 00:25:00 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Dienstag, 17.03.: DeepaMehta Introduction Event</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Introduction Event<br>
-						Dienstag, 17.03.<br>
-						19:00 - 21:00<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de">newthinking store</a><br>
-						Tucholskystraße, Berlin-Mitte<br>
-					</p>
-					<p>
-						An diesem Abend wird DeepaMehta-Gründer Jörg Richter wieder eine Einführung in die DeepaMehta-Philosophie geben. Zum Thema des Abends werden Beispielanwendungen vorgeführt und wir wollen gemeinsam  der heutigen Desktop Metapher auf den Zahn fühlen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/</link>
-			<pubDate>Mon, 13 Februar 2008 01:04:00 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Dienstag, 30.01.: DeepaMehta Developer Meeting</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Developer Meeting<br>
-						Freitag, 30.01.<br>
-						13:00 - 17:30<br>
-					</p>
-					<p>
-						<a href="http://maps.google.de/?q=M%C3%BCllerstra%C3%9Fe%2059,%20Wedding%2013349%20Berlin">Müllerstraße, Wedding</a><br>
-						13349 Berlin<br>
-					</p>
-					<p>
-						An diesem Tag wollen wir gerne mal wieder mit interessierten und bereits erfahrenen DeepaMehta Entwicklern ein schönes Developer Meeting abhalten. Bitte trag eure Vorschläge in die <i>Agenda</i> ein
-					</p>
-				]]>
-			</description>
-			<link>http://deepamehta.newthinking.net/wiki/en/Community_Agenda</link>
-			<pubDate>Mon, 26 Januar 2008 18:00:00 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Dienstag, 20.01.: DeepaMehta Introduction Event</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Introduction Event<br>
-						Dienstag, 08.01.<br>
-						19:30 - 21:00<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de">newthining store, Mitte</a><br>
-					</p>
-					<p>
-						An diesem Abend wird DeepaMehta-Gründer Jörg Richter ausnahmsweise von Malte Reißig vertreten. Die Einführung in die DeepaMehta-Philosophie bleibt das Thema des Abends. Anhand von Beispielanwendungen und einer, wie gewohnt, offenen Gesprächsrunde wird der heutigen Desktop Metapher auf den Zahn gefühlt. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag des Monats statt, wie gewohnt im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/vortrag/deepamehta/20090120</link>
-			<pubDate>Thu, 08 Januar 2008 16:00:00 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>		
-		<item>
-			<title>Dienstag, 18.12.: DeepaMehta Developer Meeting</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Developer Meeting<br>
-						Dienstag, 18.12.<br>
-						19:00 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://maps.google.de/?q=M%C3%BCllerstra%C3%9Fe%2059,%20Wedding%2013349%20Berlin">Müllerstraße, Wedding</a><br>
-						13349 Berlin<br>
-					</p>
-					<p>
-						An diesem Abend wollen wir mal wieder ein Developer Meeting abhalten und das noch im Jare 2008. Thema ist aller Vorraussicht nach, die Konzeption eines Import-Features.
-					</p>
-				]]>
-			</description>
-			<link>http://deepamehta.newthinking.net/wiki/en/Community_Agenda</link>
-			<pubDate>Thu, 05 December 2008 20:00:00 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Dienstag, 16.12.: DeepaMehta Community Meeting</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Community Meeting<br>
-						Dienstag, 16.12.<br>
-						19:00 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						An diesem Abend lädt das DeepaMehta Projekt zur offenen Gesprächs- und Vorstellungsrunde ein. Es soll interessierten Anwendern die Möglichkeit geboten werden sich und Ihre Ideen in das DeepaMehta Projekt einzubringen. Entwickler und Anwender können in diesem Rahmen offen Ihre Arbeiten präsentieren und jeder Interessierte kann sich hier als ersten Schritt in die Gestaltung der Zukunft des DeepaMehta Projekts mit einbringen.
-					</p>
-					<p>
-						Das DeepaMehta Community Meeting soll auch im kommenden Jahr, abwechselnd mit der Einführungsveranstaltung, jeweils am 3. Dienstag des Monats, Anwender, Entwickler und Interessierte zusammenbringen. Wie gewohnt im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://deepamehta.newthinking.net/wiki/en/Community_Agenda</link>
-			<pubDate>Thu, 05 December 2008 20:00:00 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Dienstag, 18.11.: DeepaMehta Community Meeting</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Community Meeting<br>
-						Dienstag, 18.11.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/kontakt">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						An diesem Abend lädt das DeepaMehta Projekt zur offenen Gesprächs- und Vorstellungsrunde ein. Es soll interessierten Anwendern die Möglichkeit geboten werden sich und Ihre Ideen in das DeepaMehta Projekt einzubringen. Entwickler und Anwender können in diesem Rahmen offen Ihre Arbeiten präsentieren und jeder Interessierte kann sich hier als ersten Schritt in die Gestaltung der Zukunft des DeepaMehta Projekts mit einbringen.
-					</p>
-					<p>
-						Der DeepaMehta Stammtisch soll für den Rest des Jahres abwechselnd mit der Einführungsveranstaltung, jeweils am 3. Dienstag des Monats, Anwender, Entwickler und Interessierte zusammenbringen. Wie gewohnt im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/kontakt</link>
-			<pubDate>Thu, 25 October 2008 10:46:59 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Mittwoch, 29.10.: TU User Meeting</title>
-			<description>
-				<![CDATA[
-					<p>
-						TU User Meeting<br>
-						Mittwoch, 29.10.<br>
-						18:00 - 21:00<br>
-					</p>
-					<p>
-						<a href="http://www.tu-deepamehta.de/?page_id=113">PC Pool</a>, Atomic-Cafe<br>
-						TU Berlin, Hardenbergstraße<br>
-					</p>
-					<p>
+                    </p>
+                    <p>
+                        <b>Themen:</b>
+                    </p>
+                    <ul>
+                        <li>Neue Einsätze durch die Anwender</li>
+                        <ul>
+                            <li>Kidsatlas</li>
+                            <li>Kiezatlanten in NRW</li>
+                            <li>Niederländische LehramtsstudentInnen erkunden Berlin mit Hilfe von Kiezatlas</li>
+                        </ul>
+                        <li>Neuigkeiten aus der Entwicklung</li>
+                        <ul>
+                            <li>Ehrenamtsatlas Berlin, basierend auf Google Maps oder OpenStreetmap, integriert in <b>berlin.de</b></li>
+                        </ul>
+                        <li>Austausch und Diskussionen</li>
+                        <ul>
+                            <li>Informationen und Erfahrungen in den Kiezen</li>
+                            <li>Neue Ideen und Anwendungswünsche für weitere Kiezatlas-Entwicklungen</li>
+                        </ul>
+                    </ul>
+                ]]>
+            </description>
+            <link>http://www.kiezatlas.de/</link>
+            <pubDate>Tue, 15 June 2010 21:31:00 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>Montag, 7. September: DeepaMehta AppDev Group Meeting</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta AppDev Group Meeting<br>
+                        Montag, 7.9.<br>
+                        19:00-22:00<br>
+                    </p>
+                    <p>
+                        <a href="http://www.newthinking-store.de">newthinking store</a><br>
+                        Tucholskystraße 48, Berlin-Mitte<br>
+                    </p>
+                    <p>
+                        Die DeepaMehta Application Development Group konzipiert und entwickelt Anwendungen, anhand konkreter Use Cases, in Zusammenarbeit mit Pilotanwendern aus Unternehmen oder Organisationen.
+                    </p>
+                    <p>
+                        Diesmal diskutieren wir mit Sven Schlebes von "Goldene Zeiten Berlin" über 2 mögliche DeepaMehta Use Cases:
+                    </p>
+                    <p>
+                        a) Agentur-Case: Interdisziplinäre und virtuelles Teams zu einer Gemeinschaft zusammenschweißen
+                    </p>
+                    <p>
+                        b) Change-Case für große Unternehmen (Community+Collaboration+redaktionelle Öffentlichkeit)
+                    </p>
+                ]]>
+            </description>
+            <link>http://www.newthinking-store.de/event/deepamehta/200900907</link>
+            <pubDate>Tue, 1 September 2009 18:20:00 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>Montag, 10. August: DeepaMehta 3 Kick-Off Treffen</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta 3 Kick-Off Treffen<br>
+                        Montag, 10.8.<br>
+                        19:00-22:00<br>
+                    </p>
+                    <p>
+                        <a href="http://www.newthinking-store.de">newthinking store</a><br>
+                        Tucholskystraße 48, Berlin-Mitte<br>
+                    </p>
+                    <p>Der Start von DeepaMehta 3 steht bevor. DeepaMehta 3 wird ein kompletter Rewrite, der die Erfahrungen der letzten 9 Jahre mit der Technik und den Denkweisen von heute verbindet.</p>
+                    <p>Im ersten Teil des Abends wird Jörg Richter von seinen persönlichen Erfahrungen und Erkenntissen mit DeepaMehta 2 berichten.</p>
+                    <p>Lessons Learned:</p>
+                    <p> - Der Prototyp ist nicht das Produkt<br />
+                     - Zu enge Bindung an eine Person hindert die Dynamik<br />
+                     - Der Anwender entscheidet über den Wert einer Software<br />
+                     - Kein Erfolg ohne aussagekräftigen Usecase</p>
+                    <p>Wie gehen die anderen vor?</p>
+                    <p> - Der 4-stufige Design-Prozeß von Bill Verplank<br />
+                     - Die 3 Phasen einer Technologie von David Liddle<br />
+                     - Die 5 Bedingungen für Innovation von Scott Berkun</p>
+                    <p>Was machen die anderen? / Von welchen Projekten können wir lernen?</p>
+                    <p> - Haystack / MIT<br />
+                     - CouchDB<br />
+                     - Google Wave<br />
+                     - box.net<br />
+                     - Dropbox</p>
+                    <p>Im zweiten Teil steht dann das "voneinander Lernen" im Vordergrund:</p>
+                    <p> - Was sind eure derzeitigen Lieblingstools, Konzepte, Techniken, Denkweisen?<br />
+                     - Was sind prädestinierte Usecases für DeepaMehta 3?<br />
+                     - Wofür wollt ihr DeepaMehta 3 gerne einsetzen?</p>
+                ]]>
+            </description>
+            <link>http://www.newthinking-store.de/event/deepamehta/20090810</link>
+            <pubDate>Fri, 7 August 2009 12:07:00 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
+            <title>Montag, 13. Juli: DeepaMehta Workshop</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Workshop<br>
+                        Montag, 13. 7.<br>
+                        19:00 - 22:00<br>Us
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de">newthinking store</a><br>
+                        Tucholskystraße, Berlin-Mitte<br>
+                    </p>
+                    <p>
+                        An diesem Abend sind alle DeepaMehta Anwender eingeladen Ihre Maps und Erfahrungen mit DeepaMehta  aufzurufen und allen Anwesenden zu präsentieren. Wir wollen uns mit allen Interessierten austauschen wofür DeepaMehta bereits heute eingesetzt wird. Falls Ihr euch im Vorfeld schon Inhaltlich mit uns absprechen wollt, Hilfe für eure Präsentation benötigt und uns das Planen erleichtern möchtet, nutzt dafür bitte Community Agenda Page im Wiki (diese ist auch im Titel verlinkt), so bekommt Ihr ganz sicher 15min am Beamer. 
+                    </p>
+                ]]>
+            </description>
+            <link>http://www.deepamehta.de/wiki/en/Community_Agenda</link>
+            <pubDate>Tue, 23 June 2009 01:56:00 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Dienstag, 19. Mai: DeepaMehta Introduction Event</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Introduction Event<br>
+                        Dienstag, 19. 5.<br>
+                        20:30 - 22:00<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de">newthinking store</a><br>
+                        Tucholskystraße, Berlin-Mitte<br>
+                    </p>
+                    <p>
+                        An diesem Abend wird DeepaMehta-Gründer Jörg Richter wieder eine Einführung in die DeepaMehta-Philosophie geben. Zum Thema des Abends werden Beispielanwendungen vorgeführt und wir wollen gemeinsam der heutigen Desktop Metapher auf den Zahn fühlen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/</link>
+            <pubDate>Mon, 18 May 2009 00:25:00 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Dienstag, 17.03.: DeepaMehta Introduction Event</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Introduction Event<br>
+                        Dienstag, 17.03.<br>
+                        19:00 - 21:00<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de">newthinking store</a><br>
+                        Tucholskystraße, Berlin-Mitte<br>
+                    </p>
+                    <p>
+                        An diesem Abend wird DeepaMehta-Gründer Jörg Richter wieder eine Einführung in die DeepaMehta-Philosophie geben. Zum Thema des Abends werden Beispielanwendungen vorgeführt und wir wollen gemeinsam  der heutigen Desktop Metapher auf den Zahn fühlen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/</link>
+            <pubDate>Mon, 13 Februar 2008 01:04:00 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Dienstag, 30.01.: DeepaMehta Developer Meeting</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Developer Meeting<br>
+                        Freitag, 30.01.<br>
+                        13:00 - 17:30<br>
+                    </p>
+                    <p>
+                        <a href="http://maps.google.de/?q=M%C3%BCllerstra%C3%9Fe%2059,%20Wedding%2013349%20Berlin">Müllerstraße, Wedding</a><br>
+                        13349 Berlin<br>
+                    </p>
+                    <p>
+                        An diesem Tag wollen wir gerne mal wieder mit interessierten und bereits erfahrenen DeepaMehta Entwicklern ein schönes Developer Meeting abhalten. Bitte trag eure Vorschläge in die <i>Agenda</i> ein
+                    </p>
+                ]]>
+            </description>
+            <link>http://deepamehta.newthinking.net/wiki/en/Community_Agenda</link>
+            <pubDate>Mon, 26 Januar 2008 18:00:00 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Dienstag, 20.01.: DeepaMehta Introduction Event</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Introduction Event<br>
+                        Dienstag, 08.01.<br>
+                        19:30 - 21:00<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de">newthining store, Mitte</a><br>
+                    </p>
+                    <p>
+                        An diesem Abend wird DeepaMehta-Gründer Jörg Richter ausnahmsweise von Malte Reißig vertreten. Die Einführung in die DeepaMehta-Philosophie bleibt das Thema des Abends. Anhand von Beispielanwendungen und einer, wie gewohnt, offenen Gesprächsrunde wird der heutigen Desktop Metapher auf den Zahn gefühlt. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag des Monats statt, wie gewohnt im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/vortrag/deepamehta/20090120</link>
+            <pubDate>Thu, 08 Januar 2008 16:00:00 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>     
+        <item>
+            <title>Dienstag, 18.12.: DeepaMehta Developer Meeting</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Developer Meeting<br>
+                        Dienstag, 18.12.<br>
+                        19:00 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://maps.google.de/?q=M%C3%BCllerstra%C3%9Fe%2059,%20Wedding%2013349%20Berlin">Müllerstraße, Wedding</a><br>
+                        13349 Berlin<br>
+                    </p>
+                    <p>
+                        An diesem Abend wollen wir mal wieder ein Developer Meeting abhalten und das noch im Jare 2008. Thema ist aller Vorraussicht nach, die Konzeption eines Import-Features.
+                    </p>
+                ]]>
+            </description>
+            <link>http://deepamehta.newthinking.net/wiki/en/Community_Agenda</link>
+            <pubDate>Thu, 05 December 2008 20:00:00 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Dienstag, 16.12.: DeepaMehta Community Meeting</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Community Meeting<br>
+                        Dienstag, 16.12.<br>
+                        19:00 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        An diesem Abend lädt das DeepaMehta Projekt zur offenen Gesprächs- und Vorstellungsrunde ein. Es soll interessierten Anwendern die Möglichkeit geboten werden sich und Ihre Ideen in das DeepaMehta Projekt einzubringen. Entwickler und Anwender können in diesem Rahmen offen Ihre Arbeiten präsentieren und jeder Interessierte kann sich hier als ersten Schritt in die Gestaltung der Zukunft des DeepaMehta Projekts mit einbringen.
+                    </p>
+                    <p>
+                        Das DeepaMehta Community Meeting soll auch im kommenden Jahr, abwechselnd mit der Einführungsveranstaltung, jeweils am 3. Dienstag des Monats, Anwender, Entwickler und Interessierte zusammenbringen. Wie gewohnt im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://deepamehta.newthinking.net/wiki/en/Community_Agenda</link>
+            <pubDate>Thu, 05 December 2008 20:00:00 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Dienstag, 18.11.: DeepaMehta Community Meeting</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Community Meeting<br>
+                        Dienstag, 18.11.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/kontakt">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        An diesem Abend lädt das DeepaMehta Projekt zur offenen Gesprächs- und Vorstellungsrunde ein. Es soll interessierten Anwendern die Möglichkeit geboten werden sich und Ihre Ideen in das DeepaMehta Projekt einzubringen. Entwickler und Anwender können in diesem Rahmen offen Ihre Arbeiten präsentieren und jeder Interessierte kann sich hier als ersten Schritt in die Gestaltung der Zukunft des DeepaMehta Projekts mit einbringen.
+                    </p>
+                    <p>
+                        Der DeepaMehta Stammtisch soll für den Rest des Jahres abwechselnd mit der Einführungsveranstaltung, jeweils am 3. Dienstag des Monats, Anwender, Entwickler und Interessierte zusammenbringen. Wie gewohnt im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/kontakt</link>
+            <pubDate>Thu, 25 October 2008 10:46:59 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Mittwoch, 29.10.: TU User Meeting</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        TU User Meeting<br>
+                        Mittwoch, 29.10.<br>
+                        18:00 - 21:00<br>
+                    </p>
+                    <p>
+                        <a href="http://www.tu-deepamehta.de/?page_id=113">PC Pool</a>, Atomic-Cafe<br>
+                        TU Berlin, Hardenbergstraße<br>
+                    </p>
+                    <p>
 
-					</p>
-					<p>
-					</p>
-				]]>
-			</description>
-			<link>http://www.tu-deepamehta.de/?page_id=113</link>
-			<pubDate>Tue, 25 October 2008 10:46:59 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Mittwoch, 17.9.: DeepaMehta Stammtisch</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Stammtisch<br>
-						Mittwoch, 17.9.<br>
-						19:00 - 21:00<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/kontakt">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						An diesem Abend lädt das DeepaMehta Projekt zur offenen Gesprächs- und Vorstellungsrunde ein. Es soll interessierten Anwendern die Möglichkeit geboten werden sich und Ihre Ideen in das DeepaMehta Projekt einzubringen. Entwickler und Anwender können in diesem Rahmen offen Ihre Arbeiten präsentieren und jeder Interessierte kann sich hier als ersten Schritt in die Gestaltung der Zukunft des DeepaMehta Projekts mit einbringen.
-					</p>
-					<p>
-						Der DeepaMehta Stammtisch soll für den Rest des Jahres abwechselnd mit der Einführungsveranstaltung, jeweils am 3. Dienstag des Monats, Anwender, Entwickler und Interessierte zusammenbringen. Wie gewohnt im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://blog.deepamehta.de/?p=77</link>
-			<pubDate>Tue, 16 September 2008 13:46:59 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Dienstag, 16.9.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 16.9.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/kontakt">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						An diesem Abend wird DeepaMehta-Gründer Jörg Richter ausnahmsweise von Malte Reißig vertreten. Die Einführung in die DeepaMehta-Philosophie bleibt das Thema des Abends. Anhand von Beispielanwendungen und einer, wie gewohnt, offenen Gesprächsrunde wird der heutigen Desktop Metapher auf den Zahn gefühlt. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag des Monats statt, wie gewohnt im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/vortrag/deepamehta/20080916</link>
-			<pubDate>Thu, 11 September 2008 21:46:59 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Freitag, 18.7.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Freitag, 18.7.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet normalerweise am 3. Dienstag des Monats statt, dieses mal jedoch ausnahmsweise an einem Freitag, wie gewohnt im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/vortrag/deepamehta/20080520</link>
-			<pubDate>Wed, 2 July 2008 14:52:59 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
-		</item>
-		<item>
-			<title>Kiezatlas Nutzer-Treffen</title>
-			<description>
-				<![CDATA[
-					<p>
-						Kiezatlas Nutzer-Treffen<br>
-						Mittwoch, 28.5.<br>
-						18:00 - 20:00<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						Das freie Softwareprojekt Kiezatlas und der Verband für sozial-kulturelle Arbeit e.V. laden zum Anlaß der neuen Kiezatlas 1.5 Version alle NutzerInnen und AdministratorInnen in den newthinking store ein.
-					</p>
-					<p>
-						Wir werden die neuesten Features von Kiezatlas in Ruhe vorstellen und mit offenen Ohren und Augen eure alltäglichen Erfahrungen im Umgang mit dem Kiezatlas einsammeln.
-					</p>
-					<p>
-						Kiezatlas ist ein Geographisches Content Management System, basierend auf der DeepaMehta Softwareplattform. Es befindet sich mittlerweile seit 4 Jahren im produktiven Einsatz und ist momentan die größte DeepaMehta-Anwendung im Netz.
-					</p>
-					<p>
-						Ebenso wie DeepaMehta ist Kiezatlas ein GPL lizensiertes freies Softwareprojekt.
-					</p>
-					<p>
-						<a href="http://www.kiezatlas.de/">www.kiezatlas.de</a><br>
-						<a href="http://www.stadtteilzentren.de/">www.stadtteilzentren.de</a><br>
-						<a href="http://www.deepamehta.de/docs/kiezatlas.html">www.deepamehta.de/docs/kiezatlas.html</a><br>
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/stammtisch/DeepaMehta/20080528</link>
-			<pubDate>Sun, 25 May 2008 23:59:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
-		</item>		
-		<item>
-			<title>Dienstag, 20.5.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 20.5.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/vortrag/deepamehta/20080520</link>
-			<pubDate>Wed, 2 May 2008 15:52:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
-		</item>		
-		<item>
-			<title>Dienstag, 15.4.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 15.4.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://newthinking-store.de/vortrag/deepamehta/20080415</link>
-			<pubDate>Mon, 31 März 2008 04:26:59 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community)</author>
-		</item>		
-		<item>
-			<title>Dienstag, 18.3.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 18.3.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/Veranstaltungen/deepa-mehta-a-networked-semantic-desktop/</link>
-			<pubDate>Wed, 20 Feb 2008 18:46:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
-		</item>
-		<item>
-			<title>Dienstag, 19.02.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 19.02.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/Veranstaltungen/deepa-mehta-2/</link>
-			<pubDate>Wed, 16 Jan 2008 10:35:01 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig, Community Care)</author>
-		</item>
-		<item>
-			<title>Dienstag, 15.01.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 15.01.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/Veranstaltungen/deepa-mehta-1/</link>
-			<pubDate>Wed, 05 Jan 2008 12:43:59 MEZ</pubDate>
-			<author>mre@deepamehta.de (Malte Reißig)</author>
-		</item>
-		<item>
-			<title>Dienstag, 18.12.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 18.12.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/Veranstaltungen/deepamehta-11/</link>
-			<pubDate>Wed, 21 Nov 2007 14:23:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
-		</item>
-		<item>
-			<title>Dienstag, 20.11.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 20.11.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/Veranstaltungen/deepamehta-10/</link>
-			<pubDate>Wed, 17 Oct 2007 13:12:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
-		</item>
-		<item>
-			<title>Dienstag, 16.10.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 16.10.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/Veranstaltungen/deepamehta-9/</link>
-			<pubDate>Wed, 19 Sep 2007 12:32:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
-		</item>
-		<item>
-			<title>Mittwoch, 19.9.: DeepaMehta Entwickler-Treffen</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Entwickler-Treffen<br>
-						Mittwoch, 19.9.<br>
-						14:00 - 17:00<br>
-					</p>
-					<p>
-						<a href="http://www.computer-manufaktur.de/">Computer Manufaktur</a><br>
-						Reichenberger Str. 36<br>
-						10999 Berlin<br>
-					</p>
-					<h4>Thema diesmal</h4>
-					<p>
-						Bei diesem Treffen wird das DeepaMehta-Computer Manufaktur-Team DeepaMehta's Datasource-Konzept nutzen, um Hilfelotsen-Inhalte als DeepaMehta Topic Maps navigierbar zu machen. Hierzu werden ein paar kleine Java-Klassen programmiert. Außerdem wird ein Hilfelotse-DeepaMehta Zielszenario beschrieben und überlegt, wie DeepaMehta's Datasource-Konzept ggf. erweitert werden müßte.
-						Der <a href="http://www.hilfelotse.de/">Hilfelotse</a> ist ein Produkt der Computer Manufaktur, eine Webanwendung für die vernetzte Beratung und Koordination im Sozial- und Gesundheitswesen.
-					</p>
-					<h4>Zu den Entwickler-Treffen allgemein</h4>
-					<p>
-						Während der DeepaMehta Entwickler-Treffen stellen die aktiven DeepaMehta-Entwickler ihre Projektergebnisse vor und diskutieren über neue Features. Die Entwickler-Treffen finden unregelmäßig statt, etwa einmal im Monat, an wechselnden Orten.
-					</p>
-				]]>
-			</description>
-			<link>http://www.computer-manufaktur.de/</link>
-			<pubDate>Wed, 12 Sep 2007 15:28:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, CTO)</author>
-		</item>
-		<item>
-			<title>Dienstag, 18.9.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 18.9.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/Veranstaltungen/deepamehta-8/</link>
-			<pubDate>Wed, 22 Aug 2007 11:47:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
-		</item>
-		<item>
-			<title>Dienstag, 21.8.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 21.8.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/Veranstaltungen/deepamehta-7/</link>
-			<pubDate>Wed, 18 Jul 2007 14:51:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
-		</item>
-		<item>
-			<title>Dienstag, 17.7.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 17.7.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/Veranstaltungen/deepamehta-6/</link>
-			<pubDate>Wed, 20 Jun 2007 12:06:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
-		</item>
-		<item>
-			<title>Dienstag, 19.6.: DeepaMehta Entwickler-Treffen</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Entwickler-Treffen<br>
-						Dienstag, 19.6.<br>
-						18:00 - 21:00<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<h4>Themen diesmal</h4>
-					<ul>
-						<li>Vorstellung der <a href="http://www.computer-manufaktur.de/" target="_blank">computer manufaktur</a>-Entwickler</li>
-						<li>Identifikation des Ziel-Szenarios der DeepaMehta-LDAP-Integration.</li>
-							<ul>
-							<li>Welche Funktionalitäten / Anwendungsfälle wollen wir realisieren?</li>
-							<li>Wie kann die Bedienung ablaufen?</li>
-							<li>Welche (Topic-)Typen und Kommandos sind für den Anwender sichtbar?</li>
-							</ul>
-					</ul>
-					<p>
-						Ziel des Treffens ist, eine Einigkeit über das zu realisierende LDAP-Szenario herzustellen. Es wäre es schön, wenn nach dem Treffen ungefähr klar ist bzw. wir uns einig sind, was wir realisieren wollen und wie die Benutzerschnittstelle dazu aussehen könnte. Meiner Meinung nach sollten wir uns noch nicht zu sehr mit der technischen Realisierung beschäftigen, das wäre dann der nächste Schritt.
-					</p>
-					<h4>Zu den Entwickler-Treffen allgemein</h4>
-					<p>
-						Während der DeepaMehta Entwickler-Treffen stellen die aktiven DeepaMehta-Entwickler ihre Projektergebnisse vor und diskutieren über neue Features. Die Entwickler-Treffen finden unregelmäßig statt, etwa einmal im Monat, an wechselnden Orten.
-					</p>
-				]]>
-			</description>
-			<link>http://www.deepamehta.de/events/development-meeting-20070619.html</link>
-			<pubDate>Wed, 12 Jun 2007 16:20:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, CTO)</author>
-		</item>
-		<item>
-			<title>Dienstag, 15.5.: DeepaMehta Einführungsveranstaltung</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Einführungsveranstaltung<br>
-						Dienstag, 15.5.<br>
-						19:30 - 21:30<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<p>
-						DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
-					</p>
-					<p>
-						Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://store.newthinking.de/Veranstaltungen/deepa-mehta/</link>
-			<pubDate>Wed, 18 Apr 2007 13:32:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
-		</item>
-		<item>
-			<title>Dienstag, 8.5.: DeepaMehta Anwender-Treffen</title>
-			<description>
-				<![CDATA[
-					<p>
-						DeepaMehta Anwender-Treffen<br>
-						Dienstag, 8.5.<br>
-						18:00 - 21:00<br>
-					</p>
-					<p>
-						<a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
-						Tucholskystr. 48<br>
-						10117 Berlin<br>
-					</p>
-					<h4>Thema diesmal</h4>
-					<p>
-						Die DeepaMehta Anwender- und Entwickler-Community hat noch nicht die Dynamik und Produktivität anderer "großer" Open Source Projekte erreicht. Ziel dieses Community Meetings ist, Grundlagen zu schaffen, die zur Verbesserung dieser Situation beitragen. <a href="http://www.deepamehta.de/events/community-meeting-20070508.html">Details</a> stehen im Web.
-					</p>
-					<h4>Zu den Anwender-Treffen allgemein</h4>
-					<p>
-						Die DeepaMehta Anwender-Treffen sind die idele Gelegenheit, DeepaMehta-Entwickler und -Anwender kennenzulernen, sich über die neusten Entwicklungen zu informieren, Fragen zu klären, Mitarbeit anzubieten und Projekte ins Leben zu rufen. Die Anwender-Treffen finden unregelmäßig statt, meistens im newthinking store Mitte.
-					</p>
-				]]>
-			</description>
-			<link>http://www.deepamehta.de/events/community-meeting-20070508.html</link>
-			<pubDate>Thu, 3 May 2007 20:23:59 MEZ</pubDate>
-			<author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
-		</item>
-	</channel>
+                    </p>
+                    <p>
+                    </p>
+                ]]>
+            </description>
+            <link>http://www.tu-deepamehta.de/?page_id=113</link>
+            <pubDate>Tue, 25 October 2008 10:46:59 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Mittwoch, 17.9.: DeepaMehta Stammtisch</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Stammtisch<br>
+                        Mittwoch, 17.9.<br>
+                        19:00 - 21:00<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/kontakt">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        An diesem Abend lädt das DeepaMehta Projekt zur offenen Gesprächs- und Vorstellungsrunde ein. Es soll interessierten Anwendern die Möglichkeit geboten werden sich und Ihre Ideen in das DeepaMehta Projekt einzubringen. Entwickler und Anwender können in diesem Rahmen offen Ihre Arbeiten präsentieren und jeder Interessierte kann sich hier als ersten Schritt in die Gestaltung der Zukunft des DeepaMehta Projekts mit einbringen.
+                    </p>
+                    <p>
+                        Der DeepaMehta Stammtisch soll für den Rest des Jahres abwechselnd mit der Einführungsveranstaltung, jeweils am 3. Dienstag des Monats, Anwender, Entwickler und Interessierte zusammenbringen. Wie gewohnt im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://blog.deepamehta.de/?p=77</link>
+            <pubDate>Tue, 16 September 2008 13:46:59 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Dienstag, 16.9.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 16.9.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/kontakt">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        An diesem Abend wird DeepaMehta-Gründer Jörg Richter ausnahmsweise von Malte Reißig vertreten. Die Einführung in die DeepaMehta-Philosophie bleibt das Thema des Abends. Anhand von Beispielanwendungen und einer, wie gewohnt, offenen Gesprächsrunde wird der heutigen Desktop Metapher auf den Zahn gefühlt. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag des Monats statt, wie gewohnt im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/vortrag/deepamehta/20080916</link>
+            <pubDate>Thu, 11 September 2008 21:46:59 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Freitag, 18.7.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Freitag, 18.7.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet normalerweise am 3. Dienstag des Monats statt, dieses mal jedoch ausnahmsweise an einem Freitag, wie gewohnt im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/vortrag/deepamehta/20080520</link>
+            <pubDate>Wed, 2 July 2008 14:52:59 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community Member)</author>
+        </item>
+        <item>
+            <title>Kiezatlas Nutzer-Treffen</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        Kiezatlas Nutzer-Treffen<br>
+                        Mittwoch, 28.5.<br>
+                        18:00 - 20:00<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        Das freie Softwareprojekt Kiezatlas und der Verband für sozial-kulturelle Arbeit e.V. laden zum Anlaß der neuen Kiezatlas 1.5 Version alle NutzerInnen und AdministratorInnen in den newthinking store ein.
+                    </p>
+                    <p>
+                        Wir werden die neuesten Features von Kiezatlas in Ruhe vorstellen und mit offenen Ohren und Augen eure alltäglichen Erfahrungen im Umgang mit dem Kiezatlas einsammeln.
+                    </p>
+                    <p>
+                        Kiezatlas ist ein Geographisches Content Management System, basierend auf der DeepaMehta Softwareplattform. Es befindet sich mittlerweile seit 4 Jahren im produktiven Einsatz und ist momentan die größte DeepaMehta-Anwendung im Netz.
+                    </p>
+                    <p>
+                        Ebenso wie DeepaMehta ist Kiezatlas ein GPL lizensiertes freies Softwareprojekt.
+                    </p>
+                    <p>
+                        <a href="http://www.kiezatlas.de/">www.kiezatlas.de</a><br>
+                        <a href="http://www.stadtteilzentren.de/">www.stadtteilzentren.de</a><br>
+                        <a href="http://www.deepamehta.de/docs/kiezatlas.html">www.deepamehta.de/docs/kiezatlas.html</a><br>
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/stammtisch/DeepaMehta/20080528</link>
+            <pubDate>Sun, 25 May 2008 23:59:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>     
+        <item>
+            <title>Dienstag, 20.5.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 20.5.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/vortrag/deepamehta/20080520</link>
+            <pubDate>Wed, 2 May 2008 15:52:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
+        </item>     
+        <item>
+            <title>Dienstag, 15.4.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 15.4.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://newthinking-store.de/vortrag/deepamehta/20080415</link>
+            <pubDate>Mon, 31 März 2008 04:26:59 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, DeepaMehta Community)</author>
+        </item>     
+        <item>
+            <title>Dienstag, 18.3.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 18.3.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/Veranstaltungen/deepa-mehta-a-networked-semantic-desktop/</link>
+            <pubDate>Wed, 20 Feb 2008 18:46:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
+        </item>
+        <item>
+            <title>Dienstag, 19.02.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 19.02.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/Veranstaltungen/deepa-mehta-2/</link>
+            <pubDate>Wed, 16 Jan 2008 10:35:01 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig, Community Care)</author>
+        </item>
+        <item>
+            <title>Dienstag, 15.01.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 15.01.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/Veranstaltungen/deepa-mehta-1/</link>
+            <pubDate>Wed, 05 Jan 2008 12:43:59 MEZ</pubDate>
+            <author>mre@deepamehta.de (Malte Reißig)</author>
+        </item>
+        <item>
+            <title>Dienstag, 18.12.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 18.12.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/Veranstaltungen/deepamehta-11/</link>
+            <pubDate>Wed, 21 Nov 2007 14:23:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
+        </item>
+        <item>
+            <title>Dienstag, 20.11.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 20.11.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/Veranstaltungen/deepamehta-10/</link>
+            <pubDate>Wed, 17 Oct 2007 13:12:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
+        </item>
+        <item>
+            <title>Dienstag, 16.10.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 16.10.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/Veranstaltungen/deepamehta-9/</link>
+            <pubDate>Wed, 19 Sep 2007 12:32:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
+        </item>
+        <item>
+            <title>Mittwoch, 19.9.: DeepaMehta Entwickler-Treffen</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Entwickler-Treffen<br>
+                        Mittwoch, 19.9.<br>
+                        14:00 - 17:00<br>
+                    </p>
+                    <p>
+                        <a href="http://www.computer-manufaktur.de/">Computer Manufaktur</a><br>
+                        Reichenberger Str. 36<br>
+                        10999 Berlin<br>
+                    </p>
+                    <h4>Thema diesmal</h4>
+                    <p>
+                        Bei diesem Treffen wird das DeepaMehta-Computer Manufaktur-Team DeepaMehta's Datasource-Konzept nutzen, um Hilfelotsen-Inhalte als DeepaMehta Topic Maps navigierbar zu machen. Hierzu werden ein paar kleine Java-Klassen programmiert. Außerdem wird ein Hilfelotse-DeepaMehta Zielszenario beschrieben und überlegt, wie DeepaMehta's Datasource-Konzept ggf. erweitert werden müßte.
+                        Der <a href="http://www.hilfelotse.de/">Hilfelotse</a> ist ein Produkt der Computer Manufaktur, eine Webanwendung für die vernetzte Beratung und Koordination im Sozial- und Gesundheitswesen.
+                    </p>
+                    <h4>Zu den Entwickler-Treffen allgemein</h4>
+                    <p>
+                        Während der DeepaMehta Entwickler-Treffen stellen die aktiven DeepaMehta-Entwickler ihre Projektergebnisse vor und diskutieren über neue Features. Die Entwickler-Treffen finden unregelmäßig statt, etwa einmal im Monat, an wechselnden Orten.
+                    </p>
+                ]]>
+            </description>
+            <link>http://www.computer-manufaktur.de/</link>
+            <pubDate>Wed, 12 Sep 2007 15:28:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Dienstag, 18.9.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 18.9.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/Veranstaltungen/deepamehta-8/</link>
+            <pubDate>Wed, 22 Aug 2007 11:47:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
+        </item>
+        <item>
+            <title>Dienstag, 21.8.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 21.8.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/Veranstaltungen/deepamehta-7/</link>
+            <pubDate>Wed, 18 Jul 2007 14:51:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
+        </item>
+        <item>
+            <title>Dienstag, 17.7.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 17.7.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/Veranstaltungen/deepamehta-6/</link>
+            <pubDate>Wed, 20 Jun 2007 12:06:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
+        </item>
+        <item>
+            <title>Dienstag, 19.6.: DeepaMehta Entwickler-Treffen</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Entwickler-Treffen<br>
+                        Dienstag, 19.6.<br>
+                        18:00 - 21:00<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <h4>Themen diesmal</h4>
+                    <ul>
+                        <li>Vorstellung der <a href="http://www.computer-manufaktur.de/" target="_blank">computer manufaktur</a>-Entwickler</li>
+                        <li>Identifikation des Ziel-Szenarios der DeepaMehta-LDAP-Integration.</li>
+                            <ul>
+                            <li>Welche Funktionalitäten / Anwendungsfälle wollen wir realisieren?</li>
+                            <li>Wie kann die Bedienung ablaufen?</li>
+                            <li>Welche (Topic-)Typen und Kommandos sind für den Anwender sichtbar?</li>
+                            </ul>
+                    </ul>
+                    <p>
+                        Ziel des Treffens ist, eine Einigkeit über das zu realisierende LDAP-Szenario herzustellen. Es wäre es schön, wenn nach dem Treffen ungefähr klar ist bzw. wir uns einig sind, was wir realisieren wollen und wie die Benutzerschnittstelle dazu aussehen könnte. Meiner Meinung nach sollten wir uns noch nicht zu sehr mit der technischen Realisierung beschäftigen, das wäre dann der nächste Schritt.
+                    </p>
+                    <h4>Zu den Entwickler-Treffen allgemein</h4>
+                    <p>
+                        Während der DeepaMehta Entwickler-Treffen stellen die aktiven DeepaMehta-Entwickler ihre Projektergebnisse vor und diskutieren über neue Features. Die Entwickler-Treffen finden unregelmäßig statt, etwa einmal im Monat, an wechselnden Orten.
+                    </p>
+                ]]>
+            </description>
+            <link>http://www.deepamehta.de/events/development-meeting-20070619.html</link>
+            <pubDate>Wed, 12 Jun 2007 16:20:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, CTO)</author>
+        </item>
+        <item>
+            <title>Dienstag, 15.5.: DeepaMehta Einführungsveranstaltung</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Einführungsveranstaltung<br>
+                        Dienstag, 15.5.<br>
+                        19:30 - 21:30<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <p>
+                        DeepaMehta-Gründer Jörg Richter führt in die DeepaMehta-Philosophie ein und demonstriert ausgewählte Beispielanwendungen. Weitere Anwendungsszenarien werden mit dem Publikum interaktiv erstellt. Die Einführungsveranstaltung ist der ideale Ort um DeepaMehta kennenzulernen.
+                    </p>
+                    <p>
+                        Die DeepaMehta Einführungsveranstaltung findet regelmäßig am 3. Dienstag eines Monats statt, immer im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://store.newthinking.de/Veranstaltungen/deepa-mehta/</link>
+            <pubDate>Wed, 18 Apr 2007 13:32:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
+        </item>
+        <item>
+            <title>Dienstag, 8.5.: DeepaMehta Anwender-Treffen</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        DeepaMehta Anwender-Treffen<br>
+                        Dienstag, 8.5.<br>
+                        18:00 - 21:00<br>
+                    </p>
+                    <p>
+                        <a href="http://store.newthinking.de/">newthinking store Mitte</a><br>
+                        Tucholskystr. 48<br>
+                        10117 Berlin<br>
+                    </p>
+                    <h4>Thema diesmal</h4>
+                    <p>
+                        Die DeepaMehta Anwender- und Entwickler-Community hat noch nicht die Dynamik und Produktivität anderer "großer" Open Source Projekte erreicht. Ziel dieses Community Meetings ist, Grundlagen zu schaffen, die zur Verbesserung dieser Situation beitragen. <a href="http://www.deepamehta.de/events/community-meeting-20070508.html">Details</a> stehen im Web.
+                    </p>
+                    <h4>Zu den Anwender-Treffen allgemein</h4>
+                    <p>
+                        Die DeepaMehta Anwender-Treffen sind die idele Gelegenheit, DeepaMehta-Entwickler und -Anwender kennenzulernen, sich über die neusten Entwicklungen zu informieren, Fragen zu klären, Mitarbeit anzubieten und Projekte ins Leben zu rufen. Die Anwender-Treffen finden unregelmäßig statt, meistens im newthinking store Mitte.
+                    </p>
+                ]]>
+            </description>
+            <link>http://www.deepamehta.de/events/community-meeting-20070508.html</link>
+            <pubDate>Thu, 3 May 2007 20:23:59 MEZ</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta founder)</author>
+        </item>
+    </channel>
 </rss>
