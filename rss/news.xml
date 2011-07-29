@@ -6,6 +6,29 @@
         <link>http://www.deepamehta.de/</link>
         <language>en-us</language>
         <item>
+            <title>DeepaMehta 4.0 released</title>
+            <description>
+                <![CDATA[
+                    <p>
+                        <img src="docs/images/deepamehta-logo-small.png" class="imagepad" align="left" border="0">
+                        On <span class="marker">July 24, 2011</span> DeepaMehta 4.0 has been released. This is the first release with the all-new <a href="https://groups.google.com/group/deepamehta3/browse_thread/thread/a77704d35e7af539">property-less data model</a>. All values (simple and composite) are represented as reusable semantics-attached topics.
+                        <a href="https://github.com/jri/deepamehta/downloads">Download</a> at GitHub.
+                    </p>
+                    <p>
+                        See the installation instructions in the <a href="https://github.com/jri/deepamehta#readme">README</a>.<br>
+                        <a href="https://groups.google.com/group/deepamehta3/browse_thread/thread/b241a6c7ce56831b">4.0.RC1 Release Notes</a> (July 20)<br>
+                        <a href="https://groups.google.com/group/deepamehta3/browse_thread/thread/4e30ac50043da1ca">4.0 Release Notes</a> (July 24)
+                    </p>
+                    <p>
+                        Report issues at our new trac-site (please register):
+                        <a href="https://trac.deepamehta.de/">https://trac.deepamehta.de/</a>
+                    </p>
+                ]]>
+            </description>
+            <pubDate>Sun, 24 Jul 2011 19:32:59 +0100</pubDate>
+            <author>jri@deepamehta.de (Jörg Richter, DeepaMehta co-founder)</author>
+        </item>
+        <item>
             <title>DeepaMehta 3 v0.4.2 released</title>
             <description>
                 <![CDATA[
