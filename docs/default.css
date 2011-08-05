@@ -1,0 +1,240 @@
+body, td {
+	font-family: Verdana, Arial;
+	font-size: 11px;
+	line-height: 15px;
+}
+
+a:link		{color: #CC0000}
+a:visited	{color: #880000}
+a:active	{color: #FF0000}
+
+body {
+	background-color: #E8E8D8;
+	margin-top:28px;
+	margin-left:28px;
+	margin-right:28px;
+}
+
+h1 {
+	margin-bottom:2ex;
+}
+
+h2, h3 {
+	margin-top:4ex;
+}
+
+h4 {
+	margin-top:16px;
+}
+
+ul {
+	padding-left:20px;
+}
+
+li {
+	margin-top:1%;
+}
+
+blockquote {
+	background-color: #D8D8C8;
+	padding: 1em;
+}
+
+.logo {
+	position: relative;
+	left: -13px;
+}
+
+.logo-small {
+	position: relative;
+	left: -9px;
+}
+
+.newthinking-logo {
+	position: relative;
+	left: -4px;
+}
+
+.title {
+	font-size: 35px;
+	font-weight: bold;
+	color: #800000;
+}
+
+.subtext {
+	font-size: 14px;
+	color: #333333;
+}
+
+.textbox {
+	background-color: #F8F8E8;
+	margin-top:1em;
+	margin-bottom:1em;
+}
+
+.highlight {
+	background-color: #F8F8E8;
+}
+
+.background {
+	background-color: #E8E8D8;
+}
+
+.dark {
+	background-color: #D8D8C8;
+}
+
+.white {
+	background-color: #FFFFFF;
+}
+
+.marker {
+	background-color: #F8F800;
+}
+
+.oldmarker {
+	background-color: #D8D8C8;
+}
+
+/* Images */
+
+.image-left {
+	float: left;
+	border: 0;
+}
+
+.image-right {
+	float: right;
+	border: 0;
+}
+
+.imagetext {
+	font-size: 10px;
+}
+
+.imagepad {
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+.ipad {
+	padding-right:10px;
+}
+
+.topipad {
+	padding-top:10px;
+}
+
+.leftipad {
+	padding-left:20px;
+}
+
+/* Header */
+
+.tableheader {
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #800000;
+}
+
+.tableheaderbig {
+	font-size: 16px;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #800000;
+}
+
+.header {
+	float: left;
+}
+
+/* Padding */
+
+.pad {
+	padding-top:20px;
+	padding-left:28px;
+	padding-right:28px;
+}
+
+.fullpad {
+	padding-top:20px;
+	padding-left:28px;
+	padding-right:28px;
+	padding-bottom:40px;
+}
+
+.smallpad {
+	padding:1em;
+}
+
+.toppad {
+	padding-top:20px;
+}
+
+.leftpad {
+	padding-left:28px;
+}
+
+.rightpad {
+	padding-right:28px;
+}
+
+.leftrightpad {
+	padding-left:28px;
+	padding-right:28px;
+}
+
+.topleftpad {
+	padding-top:40px;
+	padding-left:28px;
+}
+
+.toprightpad {
+	padding-top:20px;
+	padding-right:28px;
+}
+
+.bottomleftpad {
+	padding-bottom:40px;
+	padding-left:28px;
+}
+
+.lastcell {
+	padding-top:20px;
+	padding-right:28px;
+	padding-bottom:40px;
+}
+
+.head {
+	padding-top:40px;
+	padding-left:28px;
+	padding-bottom:20px;
+}
+
+.rightcol {
+	font-size: 10px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+/* News */
+
+.news {
+	background-color: #FFFFFF;
+	font-family: Times New Roman, Times;
+	font-size: 11px;
+	padding-left:12px;
+	padding-right:15px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.newsheadline {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.newstext {
+	font-family: Times New Roman, Times;
+	font-size: 11px;
+}
